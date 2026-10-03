@@ -5,9 +5,39 @@
   },
   "pages": [
     {
-      "file": "docs/japan_trip.md",
-      "title": "日本賞銀杏與懷舊體驗",
-      "description": "全日本旅遊寶典（依機場分類）"
+      "file": "docs/jp/guide.md",
+      "title": "通用指南與機票",
+      "description": "全日本通用攻略與出發前準備"
+    },
+    {
+      "file": "docs/jp/kanto.md",
+      "title": "關東地區",
+      "description": "東京、富士山、鎌倉、成田"
+    },
+    {
+      "file": "docs/jp/kansai.md",
+      "title": "關西地區",
+      "description": "京都、大阪、神戶、姬路"
+    },
+    {
+      "file": "docs/jp/chubu.md",
+      "title": "中部與北陸",
+      "description": "名古屋、金澤"
+    },
+    {
+      "file": "docs/jp/setouchi.md",
+      "title": "山陽與四國",
+      "description": "廣島、岡山、高松、尾道"
+    },
+    {
+      "file": "docs/jp/kyushu.md",
+      "title": "九州地區",
+      "description": "福岡、長崎島原、鹿兒島"
+    },
+    {
+      "file": "docs/jp/hokkaido_tohoku.md",
+      "title": "北海道與東北",
+      "description": "札幌、青森"
     }
   ]
 }
