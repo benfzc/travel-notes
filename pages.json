@@ -1,0 +1,13 @@
+{
+  "site": {
+    "title": "旅遊寶典",
+    "icon": "🍂"
+  },
+  "pages": [
+    {
+      "file": "docs/japan_trip.md",
+      "title": "日本賞銀杏與懷舊體驗",
+      "description": "全日本旅遊寶典（依機場分類）"
+    }
+  ]
+}

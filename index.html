@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>旅遊寶典</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍂</text></svg>">
+
+  <!-- Marked.js - Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    :root {
+      --sidebar-width: 280px;
+      --bg-primary: #faf8f5;
+      --bg-sidebar: #2c2c2c;
+      --bg-sidebar-hover: #3a3a3a;
+      --text-primary: #333;
+      --text-secondary: #666;
+      --text-sidebar: #ccc;
+      --text-sidebar-active: #f5c842;
+      --accent: #d4764e;
+      --accent-light: #f0e0d0;
+      --border: #e0dcd5;
+      --blockquote-bg: #fff8ee;
+      --blockquote-border: #e8c36e;
+      --code-bg: #f5f2ed;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: "Hiragino Sans", "Microsoft JhengHei", "Noto Sans TC", "Noto Sans JP", sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.8;
+    }
+
+    /* ===== Sidebar ===== */
+    #sidebar {
+      position: fixed;
+      top: 0; left: 0;
+      width: var(--sidebar-width);
+      height: 100vh;
+      background: var(--bg-sidebar);
+      overflow-y: auto;
+      z-index: 100;
+      transition: transform 0.3s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #sidebar-header {
+      padding: 20px 16px 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      flex-shrink: 0;
+    }
+
+    #sidebar-header h2 { color: #fff; font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+    #sidebar-header .subtitle { color: #999; font-size: 12px; }
+
+    /* Page list (multi-page nav) */
+    #page-list {
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      flex-shrink: 0;
+    }
+
+    #page-list.single-page { display: none; }
+
+    .page-item {
+      display: block;
+      padding: 8px 16px;
+      color: var(--text-sidebar);
+      text-decoration: none;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+      border-left: 3px solid transparent;
+    }
+
+    .page-item:hover { background: var(--bg-sidebar-hover); color: #fff; }
+
+    .page-item.active {
+      color: #fff;
+      background: rgba(245, 200, 66, 0.12);
+      border-left-color: var(--text-sidebar-active);
+    }
+
+    .page-item .page-desc {
+      display: block;
+      font-size: 11px;
+      color: #777;
+      margin-top: 2px;
+    }
+
+    /* Section: TOC */
+    #toc-label {
+      padding: 10px 16px 4px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #666;
+      flex-shrink: 0;
+    }
+
+    #toc {
+      padding: 4px 0 16px;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    #toc a {
+      display: block;
+      padding: 5px 16px;
+      color: var(--text-sidebar);
+      text-decoration: none;
+      font-size: 13px;
+      border-left: 3px solid transparent;
+      transition: all 0.2s;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    #toc a:hover { background: var(--bg-sidebar-hover); color: #fff; }
+
+    #toc a.active {
+      color: var(--text-sidebar-active);
+      border-left-color: var(--text-sidebar-active);
+      background: rgba(245, 200, 66, 0.08);
+    }
+
+    #toc a.toc-h2 { padding-left: 16px; font-weight: 600; font-size: 13.5px; }
+    #toc a.toc-h3 { padding-left: 32px; font-size: 12px; color: #999; }
+
+    /* ===== Main Content ===== */
+    #main { margin-left: var(--sidebar-width); min-height: 100vh; }
+
+    #content {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 48px 80px;
+    }
+
+    /* ===== Mobile ===== */
+    #menu-toggle {
+      display: none;
+      position: fixed;
+      top: 12px; left: 12px;
+      z-index: 200;
+      width: 40px; height: 40px;
+      background: var(--bg-sidebar);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 20px;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+
+    #sidebar-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 99;
+    }
+
+    /* ===== Markdown rendered styles ===== */
+    #content h1 {
+      font-size: 28px;
+      color: var(--accent);
+      margin: 0 0 16px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--accent-light);
+      line-height: 1.4;
+    }
+
+    #content h2 {
+      font-size: 22px;
+      color: var(--text-primary);
+      margin: 48px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    #content h3 {
+      font-size: 17px;
+      color: var(--accent);
+      margin: 32px 0 12px;
+    }
+
+    #content p { margin: 12px 0; }
+
+    #content a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px dotted var(--accent);
+    }
+    #content a:hover { border-bottom-style: solid; }
+
+    #content blockquote {
+      margin: 16px 0;
+      padding: 16px 20px;
+      background: var(--blockquote-bg);
+      border-left: 4px solid var(--blockquote-border);
+      border-radius: 0 8px 8px 0;
+      font-size: 14px;
+    }
+    #content blockquote p { margin: 8px 0; }
+    #content blockquote strong { color: var(--accent); }
+
+    #content ul, #content ol { margin: 12px 0; padding-left: 24px; }
+    #content li { margin: 8px 0; }
+    #content li ul { margin: 4px 0; }
+
+    #content code {
+      background: var(--code-bg);
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-size: 0.9em;
+    }
+
+    #content hr {
+      border: none;
+      border-top: 2px dashed var(--border);
+      margin: 48px 0;
+    }
+
+    #content strong { color: #222; }
+
+    /* ===== States ===== */
+    #loading {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-secondary);
+    }
+
+    #loading .spinner {
+      display: inline-block;
+      width: 32px; height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #error-msg {
+      display: none;
+      text-align: center;
+      padding: 60px 20px;
+      color: #c0392b;
+    }
+
+    #error-msg code {
+      display: block;
+      margin-top: 12px;
+      color: var(--text-secondary);
+      font-size: 13px;
+      white-space: pre-line;
+    }
+
+    /* ===== Scroll to top ===== */
+    #scroll-top {
+      position: fixed;
+      bottom: 24px; right: 24px;
+      width: 44px; height: 44px;
+      background: var(--bg-sidebar);
+      color: #fff;
+      border: none;
+      border-radius: 50%;
+      font-size: 20px;
+      cursor: pointer;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.3s;
+      z-index: 50;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+    }
+
+    #scroll-top.visible { opacity: 1; transform: translateY(0); }
+    #scroll-top:hover { background: var(--accent); }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 768px) {
+      #sidebar { transform: translateX(-100%); }
+      #sidebar.open { transform: translateX(0); }
+      #sidebar-overlay.open { display: block; }
+      #main { margin-left: 0; }
+      #content { padding: 60px 20px 80px; }
+      #menu-toggle { display: flex; }
+    }
+  </style>
+</head>
+<body>
+
+  <button id="menu-toggle" aria-label="Toggle menu">☰</button>
+  <div id="sidebar-overlay"></div>
+
+  <aside id="sidebar">
+    <div id="sidebar-header">
+      <h2 id="site-title">📖 旅遊寶典</h2>
+      <div class="subtitle" id="site-subtitle">載入中...</div>
+    </div>
+
+    <div id="page-list">
+      <!-- dynamically populated from pages.json -->
+    </div>
+
+    <div id="toc-label">📑 本頁目錄</div>
+    <nav id="toc"></nav>
+  </aside>
+
+  <main id="main">
+    <div id="content">
+      <div id="loading">
+        <div class="spinner"></div>
+        <div>載入文件中...</div>
+      </div>
+      <div id="error-msg">
+        <div>⚠️ 無法載入文件</div>
+        <code id="error-detail"></code>
+      </div>
+    </div>
+  </main>
+
+  <button id="scroll-top" title="回到頂部">↑</button>
+
+  <script>
+    // ============================================================
+    //  DOM refs
+    // ============================================================
+    const contentEl     = document.getElementById('content');
+    const tocEl         = document.getElementById('toc');
+    const loadingEl     = document.getElementById('loading');
+    const errorEl       = document.getElementById('error-msg');
+    const errorDetail   = document.getElementById('error-detail');
+    const pageListEl    = document.getElementById('page-list');
+    const siteTitle     = document.getElementById('site-title');
+    const siteSubtitle  = document.getElementById('site-subtitle');
+    const menuToggle    = document.getElementById('menu-toggle');
+    const sidebar       = document.getElementById('sidebar');
+    const sidebarOverlay= document.getElementById('sidebar-overlay');
+    const scrollTopBtn  = document.getElementById('scroll-top');
+
+    let pagesConfig = null;
+    let currentPage = null;
+    let scrollObserver = null;
+
+    // Configure marked
+    marked.setOptions({ breaks: true, gfm: true });
+
+    // ============================================================
+    //  Boot: load pages.json then render
+    // ============================================================
+    async function boot() {
+      try {
+        const resp = await fetch('pages.json');
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        pagesConfig = await resp.json();
+      } catch (err) {
+        showError(`無法載入 pages.json: ${err.message}`);
+        return;
+      }
+
+      // Apply site config
+      const site = pagesConfig.site || {};
+      document.title = site.title || '旅遊寶典';
+      siteTitle.textContent = `${site.icon || '📖'} ${site.title || '旅遊寶典'}`;
+
+      const pages = pagesConfig.pages || [];
+      if (pages.length === 0) {
+        showError('pages.json 中沒有設定任何頁面');
+        return;
+      }
+
+      // Build page nav
+      buildPageNav(pages);
+
+      // Determine which page to load (from URL hash)
+      const hash = window.location.hash.slice(1); // remove #
+      const target = pages.find(p => slugify(p.file) === hash) || pages[0];
+      loadPage(target);
+    }
+
+    // ============================================================
+    //  Page navigation
+    // ============================================================
+    function slugify(file) {
+      return file.replace(/[^a-zA-Z0-9_-]/g, '_');
+    }
+
+    function buildPageNav(pages) {
+      pageListEl.innerHTML = '';
+
+      if (pages.length <= 1) {
+        pageListEl.classList.add('single-page');
+      } else {
+        pageListEl.classList.remove('single-page');
+      }
+
+      pages.forEach(page => {
+        const div = document.createElement('div');
+        div.className = 'page-item';
+        div.dataset.file = page.file;
+        div.innerHTML = `${page.title}${page.description ? `<span class="page-desc">${page.description}</span>` : ''}`;
+        div.addEventListener('click', () => loadPage(page));
+        pageListEl.appendChild(div);
+      });
+    }
+
+    function setActivePage(file) {
+      document.querySelectorAll('.page-item').forEach(el => {
+        el.classList.toggle('active', el.dataset.file === file);
+      });
+    }
+
+    // ============================================================
+    //  Load & render a single page
+    // ============================================================
+    async function loadPage(page) {
+      currentPage = page;
+      loadingEl.style.display = 'block';
+      errorEl.style.display = 'none';
+      tocEl.innerHTML = '';
+      setActivePage(page.file);
+
+      // Update subtitle
+      siteSubtitle.textContent = page.description || page.title;
+
+      // Update URL hash
+      window.location.hash = slugify(page.file);
+
+      try {
+        const resp = await fetch(page.file);
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
+        const md = await resp.text();
+        renderMarkdown(md);
+        loadingEl.style.display = 'none';
+      } catch (err) {
+        showError(`無法載入 ${page.file}: ${err.message}\n\n提示：需透過 HTTP 伺服器開啟（不能用 file:// 直接開啟）\n• Python: python -m http.server 8000\n• Node.js: npx serve\n• VS Code: Live Server 擴充套件`);
+      }
+    }
+
+    function renderMarkdown(md) {
+      contentEl.innerHTML = marked.parse(md);
+      generateTOC();
+
+      // External links open in new tab
+      contentEl.querySelectorAll('a[href^="http"]').forEach(a => {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      });
+
+      window.scrollTo(0, 0);
+    }
+
+    function showError(msg) {
+      loadingEl.style.display = 'none';
+      errorEl.style.display = 'block';
+      errorDetail.textContent = msg;
+    }
+
+    // ============================================================
+    //  TOC generation & scroll spy
+    // ============================================================
+    function generateTOC() {
+      tocEl.innerHTML = '';
+      const headings = contentEl.querySelectorAll('h2, h3');
+
+      headings.forEach((heading, i) => {
+        const id = `section-${i}`;
+        heading.id = id;
+
+        const link = document.createElement('a');
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+        link.className = `toc-${heading.tagName.toLowerCase()}`;
+        link.addEventListener('click', e => {
+          e.preventDefault();
+          heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          sidebar.classList.remove('open');
+          sidebarOverlay.classList.remove('open');
+        });
+        tocEl.appendChild(link);
+      });
+
+      setupScrollSpy(headings);
+    }
+
+    function setupScrollSpy(headings) {
+      // Disconnect previous observer
+      if (scrollObserver) scrollObserver.disconnect();
+
+      const tocLinks = tocEl.querySelectorAll('a');
+
+      scrollObserver = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const id = entry.target.id;
+            tocLinks.forEach(l => l.classList.toggle('active', l.getAttribute('href') === `#${id}`));
+            const active = tocEl.querySelector('a.active');
+            if (active) active.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+          }
+        });
+      }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
+
+      headings.forEach(h => scrollObserver.observe(h));
+    }
+
+    // ============================================================
+    //  Hash change → navigate
+    // ============================================================
+    window.addEventListener('hashchange', () => {
+      if (!pagesConfig) return;
+      const hash = window.location.hash.slice(1);
+      const page = pagesConfig.pages.find(p => slugify(p.file) === hash);
+      if (page && page !== currentPage) loadPage(page);
+    });
+
+    // ============================================================
+    //  Mobile sidebar
+    // ============================================================
+    menuToggle.addEventListener('click', () => {
+      sidebar.classList.toggle('open');
+      sidebarOverlay.classList.toggle('open');
+    });
+    sidebarOverlay.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      sidebarOverlay.classList.remove('open');
+    });
+
+    // ============================================================
+    //  Scroll to top
+    // ============================================================
+    window.addEventListener('scroll', () => {
+      scrollTopBtn.classList.toggle('visible', window.scrollY > 400);
+    });
+    scrollTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ============================================================
+    //  Go!
+    // ============================================================
+    boot();
+  </script>
+</body>
+</html>
