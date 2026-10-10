@@ -1,53 +1,63 @@
 {
   "site": {
     "title": "旅遊寶典",
-    "icon": "🍂"
+    "icon": ""
   },
-  "pages": [
+  "categories": [
     {
-      "file": "docs/jp/guide.md",
-      "title": "通用指南與機票",
-      "description": "全日本通用攻略與出發前準備"
+      "name": "日本",
+      "pages": [
+        {
+          "file": "docs/jp/guide.md",
+          "title": "行前須知與機票",
+          "description": "全日本通用攻略與出發前準備"
+        },
+        {
+          "file": "docs/jp/kanto.md",
+          "title": "關東地區",
+          "description": "東京、富士山、鎌倉、成田"
+        },
+        {
+          "file": "docs/jp/kansai.md",
+          "title": "關西地區",
+          "description": "京都、大阪、神戶、姬路"
+        },
+        {
+          "file": "docs/jp/chubu.md",
+          "title": "中部與北陸",
+          "description": "名古屋、金澤"
+        },
+        {
+          "file": "docs/jp/setouchi.md",
+          "title": "山陽與四國",
+          "description": "廣島、岡山、高松、尾道"
+        },
+        {
+          "file": "docs/jp/kyushu.md",
+          "title": "九州地區",
+          "description": "福岡、長崎島原、鹿兒島"
+        },
+        {
+          "file": "docs/jp/hokkaido_tohoku.md",
+          "title": "北海道與東北",
+          "description": "札幌、青森"
+        }
+      ]
     },
     {
-      "file": "docs/jp/kanto.md",
-      "title": "關東地區",
-      "description": "東京、富士山、鎌倉、成田"
-    },
-    {
-      "file": "docs/jp/kansai.md",
-      "title": "關西地區",
-      "description": "京都、大阪、神戶、姬路"
-    },
-    {
-      "file": "docs/jp/chubu.md",
-      "title": "中部與北陸",
-      "description": "名古屋、金澤"
-    },
-    {
-      "file": "docs/jp/setouchi.md",
-      "title": "山陽與四國",
-      "description": "廣島、岡山、高松、尾道"
-    },
-    {
-      "file": "docs/jp/kyushu.md",
-      "title": "九州地區",
-      "description": "福岡、長崎島原、鹿兒島"
-    },
-    {
-      "file": "docs/jp/hokkaido_tohoku.md",
-      "title": "北海道與東北",
-      "description": "札幌、青森"
-    },
-    {
-      "file": "docs/tw/tainan.md",
-      "title": "台灣台南",
-      "description": "在地美食、舊城區慢活散步、秘境景點與避雷攻略"
-    },
-    {
-      "file": "docs/tw/taoyuan.md",
-      "title": "台灣桃園",
-      "description": "大溪老街輕鬆半日遊"
+      "name": "台灣",
+      "pages": [
+        {
+          "file": "docs/tw/tainan.md",
+          "title": "台南",
+          "description": "在地美食、舊城區慢活散步與秘境"
+        },
+        {
+          "file": "docs/tw/taoyuan.md",
+          "title": "桃園",
+          "description": "大溪老街輕鬆半日遊"
+        }
+      ]
     }
   ]
 }

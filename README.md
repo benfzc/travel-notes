@@ -109,7 +109,7 @@ docs/kyushu_onsen.md
 
 #### 3.2 更新 pages.json
 
-在 `pages` 陣列中加一個條目：
+在對應的國家分類下新增頁面，或新增一個新的國家分類：
 
 ```json
 {
@@ -117,32 +117,47 @@ docs/kyushu_onsen.md
     "title": "旅遊寶典",
     "icon": ""
   },
-  "pages": [
+  "categories": [
     {
-      "file": "docs/japan_trip.md",
-      "title": "日本賞銀杏與懷舊體驗",
-      "description": "全日本旅遊寶典（依機場分類）"
+      "name": "日本",
+      "pages": [
+        {
+          "file": "docs/jp/guide.md",
+          "title": "行前須知與機票",
+          "description": "全日本通用攻略與出發前準備"
+        },
+        {
+          "file": "docs/jp/kanto.md",
+          "title": "關東地區",
+          "description": "東京、富士山、鎌倉、成田"
+        }
+      ]
     },
     {
-      "file": "docs/kyushu_onsen.md",
-      "title": "九州溫泉巡禮",
-      "description": "別府、由布院、黑川溫泉攻略"
+      "name": "台灣",
+      "pages": [
+        {
+          "file": "docs/tw/tainan.md",
+          "title": "台南",
+          "description": "在地美食、舊城區慢活散步與秘境"
+        }
+      ]
     }
   ]
 }
 ```
 
-> 超過一個頁面時，側邊欄會自動出現頁面導覽列表。
+> 側邊欄會自動依國家呈現折疊式選單，點選國家名稱即可展開或收合。
 
 #### 3.3 推送
 
 ```powershell
 git add .
-git commit -m "Add kyushu onsen guide"
+git commit -m "Add new destination"
 git push
 ```
 
-Cloudflare Pages 自動偵測 → 重新部署 → 完成。
+Cloudflare Pages 自動偵測後重新部署完成。
 
 ---
 
