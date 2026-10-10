@@ -43,6 +43,11 @@
       "file": "docs/tw/tainan.md",
       "title": "台灣台南",
       "description": "在地美食、舊城區慢活散步、秘境景點與避雷攻略"
+    },
+    {
+      "file": "docs/tw/taoyuan.md",
+      "title": "台灣桃園",
+      "description": "大溪老街輕鬆半日遊"
     }
   ]
 }
