@@ -57,7 +57,8 @@
     *   **沙淘宮菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=沙淘宮菜粽+台南)：太子廟前的老字號，要早起才吃得到。
     *   **明和菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=明和菜粽+台南)：傳說級的神店，因為太早賣光，常被鄉親笑稱「還以為店名就叫做賣完了」。
     *   **阿忠菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿忠菜粽+台南)：24小時營業，隨時想吃都有。
-*   **米糕與碗粿**：
+*   **肉燥飯、米糕與碗粿**：
+    *   **福生小食店 (海安路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=福生小食店+台南)：台南人從小吃到大的經典早午餐老店！從清晨營業至傍晚，招牌「肉燥飯」與「米糕」以古法製作，肥瘦適中、鹹香不膩，內行吃法是一定要配上一碗手工魚丸湯、魚皮湯，再點份扁魚白菜，銅板價就能極度滿足。
     *   **落成米糕** [📍地圖](https://www.google.com/maps/search/?api=1&query=落成米糕+台南)：在地人強推的米糕愛店，米粒Q彈香氣十足。
     *   **下大道蘭米糕**（注意：有網友反應近期米有時煮得太爛，請自行斟酌）。
     *   **阿文米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿文米粿+台南) / **七誠米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=七誠米粿+台南) / **一味品碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=一味品碗粿+台南)：吃米粿的秘訣——一定要叫老闆幫你煎 **「赤赤 (chhiah-chhiah)」** 也就是邊緣微焦酥脆。
@@ -70,6 +71,7 @@
     *   **邱家小卷米粉** [📍地圖](https://www.google.com/maps/search/?api=1&query=邱家小卷米粉+台南)：*國華街排隊霸主！* 湯頭充滿小卷的鮮甜，搭配粗米粉吸滿湯汁，雖然隨時都在大排長龍，但真的是觀光客來台南必朝聖的經典美味。
     *   **府城黃家蝦捲 (原鴨母寮蝦捲)** [📍地圖](https://www.google.com/maps/search/?api=1&query=府城黃家蝦捲+台南)：*米其林必比登推介！* 內餡只有滿滿的火燒蝦、高麗菜跟蔥，**完全不加豬肉末**，蝦味極度濃厚！外層用傳統豬網紗包裹油炸，外帶還會用粽葉包裝散熱，是非常道地的傳統手路菜，每天只賣下午幾個小時。
 *   **傳統市場尋寶**：
+    *   **東菜市 (青年路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=東菜市+台南)：超過百年歷史的日治時期傳統市場！早期因政商名流與有錢人常來採買而有「好野人市場」之稱，在地舊稱更叫「夭鬼埕」（形容美食多到讓人嘴饞停不下來）。市場內必吃 **「阿真春捲」**、**「阿粉姨牛乳紅茶」** 與各式傳統紅龜粿、熟食滷味，充滿濃厚的府城早市生活感。
     *   **水仙宮市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=水仙宮市場+台南)：除了逛街，必買「93攤涼筍」（100元一大盒附美乃滋）。另外市場內隱藏著神級排隊美食 **「麵條王海產麵」**，超高 CP 值，點餐時內行人會選擇「分開吃（湯麵分離）」或「全乾」，記得加上店家的自製辣油與滷肉燥！
         *   **欽欽咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=欽欽咖啡+台南)：藏在喧鬧傳統市場裡的隱密咖啡店。
     *   **復興市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=復興市場+台南)：近年轉型成極度熱鬧的「深夜食堂」！走進去就像發現新大陸，越晚越熱鬧。
@@ -85,10 +87,10 @@
 *   **鱔魚意麵（名店與避雷）**：
     *   **進福炒鱔魚專家** [📍地圖](https://www.google.com/maps/search/?api=1&query=進福炒鱔魚專家+台南)：在地人推薦可搭配「活魷魚」一起吃。
     *   **老牌方家炒鱔魚** [📍地圖](https://www.google.com/maps/search/?api=1&query=老牌方家炒鱔魚+台南) / **八三鱔魚意麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=八三鱔魚意麵+台南)：在地人的私藏清單。
-    *   **⚠️ 阿江鱔魚意麵 (排隊名店)** [📍地圖](https://www.google.com/maps/search/?api=1&query=⚠️+阿江鱔魚意麵+台南)：*台南在地人避雷區！* 許多台南人表示現在幾乎都是觀光客在排，品質不若以往，建議時間寶貴可以跳過。
+    *   **⚠️ 阿江鱔魚意麵 (排隊名店)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿江鱔魚意麵+台南)：*台南在地人避雷區！* 許多台南人表示現在幾乎都是觀光客在排，品質不若以往，建議時間寶貴可以跳過。
 *   **被低估的精品咖啡**：
     *   **秘氏咖啡 (永樂市場二樓)** [📍地圖](https://www.google.com/maps/search/?api=1&query=秘氏咖啡+台南)：極度神秘的老城風味，**⚠️ 注意：進門請收起相機，店內禁止拍照！**
-    *   **here Kyoto 台南** [📍地圖](https://www.google.com/maps/search/?api=1&query=here+Kyoto+台南+台南)：京都職人跨海來開的店，早上 07:30 就營業！
+    *   **here Kyoto 台南** [📍地圖](https://www.google.com/maps/search/?api=1&query=here+Kyoto+台南)：京都職人跨海來開的店，早上 07:30 就營業！
     *   **古意人咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=古意人咖啡+台南)：早上 07:40 開門，是台南早鳥的秘密基地。
     *   **萃行咖啡館** [📍地圖](https://www.google.com/maps/search/?api=1&query=萃行咖啡館+台南)：週五營業到凌晨，台南夜貓子的救星。
     *   **道南館** [📍地圖](https://www.google.com/maps/search/?api=1&query=道南館+台南) / **JJ虹吸咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=JJ虹吸咖啡+台南)：喜歡精品豆與老牌咖啡的資深愛好者必去。
@@ -96,6 +98,8 @@
     *   **咕嚕家庭料理館 (慶中街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=咕嚕家庭料理館+台南)：乾淨、好吃。提供熱炒、鮮魚與家庭簡餐，是非常溫馨無雷的選擇。
     *   **帕里諾咖啡 (Panino Cafe)** [📍地圖](https://www.google.com/maps/search/?api=1&query=帕里諾咖啡+台南)：帕尼尼的乳酪會直接炸出來，夭壽好吃。
 *   **冰品與手搖**：
+    *   **品佳菊花茶 (海安路/大勇街口)** [📍地圖](https://www.google.com/maps/search/?api=1&query=品佳菊花茶+台南)：台南老字號古早味涼水攤！招牌菊花茶清香回甘、極度退火解膩，另有冬瓜茶與傳統紅茶，許多在地人和運將大哥都是直接「整罐」買回家喝。
+    *   **小西腳青草茶 (西門路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=小西腳青草茶+台南)：經營超過一甲子的老字號涼水攤！位於舊稱「小西門」城腳一帶（近保安路商圈），嚴選十餘種青草古法熬煮並調入薄荷，喝起來帶有清新草香與舒爽涼感（可選有糖或無糖），「蓮藕茶」也是人氣必點。
     *   **太陽牌冰品 (民權路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=太陽牌冰品+台南)：台南在地老字號！以「草湖芋仔冰」和「紅豆牛奶霜」聞名，是非常經典的復古台南冰果室體驗。
     *   **龍興冰品店 (金華路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=龍興冰品店+台南)：營業到深夜 12 點的老字號冰店！除了八寶冰與豆花，配料選擇極多（推薦加銀波布丁），是台南夜貓子的宵夜冰品首選。
     *   **欣欣冰果室 (東區育樂街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=欣欣冰果室+台南)：鄰近成大學區的隱藏版老店，主打古早味的「香蕉清冰」，清涼消暑。
