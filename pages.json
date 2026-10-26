@@ -40,7 +40,7 @@
         {
           "file": "docs/jp/hokkaido_tohoku.md",
           "title": "北海道與東北",
-          "description": "札幌、小樽、旭川、青森"
+          "description": "札幌、小樽、旭川、釧路、青森、秋田"
         }
       ]
     },
@@ -48,9 +48,9 @@
       "name": "台灣",
       "pages": [
         {
-          "file": "docs/tw/tainan.md",
-          "title": "台南",
-          "description": "在地美食、舊城區慢活散步與秘境"
+          "file": "docs/tw/taipei.md",
+          "title": "台北",
+          "description": "萬華老字號早餐與私房美食"
         },
         {
           "file": "docs/tw/taoyuan.md",
@@ -61,6 +61,11 @@
           "file": "docs/tw/yilan.md",
           "title": "宜蘭",
           "description": "員山爆漿三星蔥湯包與私房小吃"
+        },
+        {
+          "file": "docs/tw/tainan.md",
+          "title": "台南",
+          "description": "在地美食、舊城區慢活散步與秘境"
         }
       ]
     }
