@@ -50,7 +50,7 @@
         {
           "file": "docs/tw/taipei.md",
           "title": "台北",
-          "description": "萬華老字號早餐與私房美食"
+          "description": "萬華、大同區老字號早餐與私房美食"
         },
         {
           "file": "docs/tw/taoyuan.md",
@@ -71,6 +71,11 @@
           "file": "docs/tw/tainan.md",
           "title": "台南",
           "description": "在地美食、舊城區慢活散步與秘境"
+        },
+        {
+          "file": "docs/tw/penghu.md",
+          "title": "澎湖",
+          "description": "湖西古早味手工炸棗、肪片龜與伴手禮"
         }
       ]
     }
