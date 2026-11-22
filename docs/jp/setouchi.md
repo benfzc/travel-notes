@@ -4,14 +4,14 @@
 
 ## 🏮 1. 懷舊與古風散步
 
-*   **岡山與倉敷美觀 (Okayama)** [📍地圖](https://www.google.com/maps/search/?api=1&query=倉敷美觀地區)：*散步與慢活首選！* 倉敷美觀地區的白牆與柳樹運河極美，遊客比京阪少很多。還可以順遊備中松山城與岡山城。
-*   **尾道 (Onomichi)** [📍地圖](https://www.google.com/maps/search/?api=1&query=尾道+千光寺)：依山傍海的絕美港町。穿梭於「貓之細道」與坂道巷弄間，搭乘千光寺纜車俯瞰瀨戶內海藍色群島，極具文青感。
-*   **竹原 (安藝小京都)** [📍地圖](https://www.google.com/maps/search/?api=1&query=竹原+町並み保存地區)：完整保存江戶時代風貌的老街。重點是「完全沒觀光客」，可以享受最寧靜的日本老街呼吸節奏。
-*   **鞆之浦 (Tomonoura)** [📍地圖](https://www.google.com/maps/search/?api=1&query=鞆之浦+常夜燈)：宮崎駿《崖上的波妞》靈感發源地。黃昏時在海港的常夜燈旁吹風，氣氛拉滿。
-*   **高松中央商店街** [📍地圖](https://www.google.com/maps/search/?api=1&query=高松中央商店街)：日本最長的拱廊商店街之一。不僅適合做為瀨戶內海跳島的基地，這裡更藏有非常多厲害的平價美食（如烏龍麵、骨付鳥）。
+*   **岡山・倉敷美觀地區** [📍地圖](https://www.google.com/maps/search/?api=1&query=倉敷美觀地區)：白牆柳樹運河老街（可順遊備中松山城、岡山城）
+*   **尾道** [📍地圖](https://www.google.com/maps/search/?api=1&query=尾道+千光寺)：貓之細道、坂道港町、千光寺纜車眺望瀨戶內海
+*   **竹原（安藝小京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=竹原+町並み保存地區)：清幽江戶老街保存區
+*   **鞆之浦** [📍地圖](https://www.google.com/maps/search/?api=1&query=鞆之浦+常夜燈)：《崖上的波妞》靈感港町、黃昏常夜燈
+*   **高松中央商店街** [📍地圖](https://www.google.com/maps/search/?api=1&query=高松中央商店街)：拱廊商店街；烏龍麵、骨付鳥、瀨戶內海跳島基地
 
 ---
 
 ## 🏔️ 2. 特殊文化與絕景
 
-*   **吳市 (Kure) 海軍港** [📍地圖](https://www.google.com/maps/search/?api=1&query=大和ミュージアム+吳市)：軍事迷與歷史迷必訪！可以直接走進巨大潛水艇的內部參觀，感受震撼的近代日本海軍歷史與科技感。
+*   **吳市 海軍港（大和博物館）** [📍地圖](https://www.google.com/maps/search/?api=1&query=大和ミュージアム+吳市)：近代海軍歷史、可進入巨大潛水艇內部參觀

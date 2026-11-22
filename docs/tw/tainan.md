@@ -1,227 +1,189 @@
 # 🇹🇼 台灣台南：在地美食、秘境景點與避雷攻略
 
-這是一份經由在地人與脆友們千錘百鍊的台南私房清單。為了方便安排行程，所有的美食名店、傳統市場與秘境景點，都已經依照「行政區」進行分類，讓您可以輕鬆把附近的地點串成一條完美的吃喝玩樂路線！
-
 ---
 
 ## 📍 【東區與成大周邊】
-這裡鄰近台南後火車站與成功大學，有非常多受學生與在地人喜愛的隱藏版美食，以及靜謐的文創聚落。
 
-*   **文創與建築秘境**：
-    *   **西竹圍之丘文創園區 (後火車站)** [📍地圖](https://www.google.com/maps/search/?api=1&query=西竹圍之丘文創園區+台南)：隱藏在後火車站附近的靜謐聚落，步行即可抵達。這裡不僅避開了人擠人的商圈，還進駐了許多極具質感的選物小店與手作工坊，非常適合喜歡深度慢遊的旅人。
-    *   **台南神學院** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南神學院+台南)：*等了四年終於重新開放戶外！* 這裡建築就像國外莊園一樣絕美，也是經典台劇《一把青》的拍攝地。
-*   **長輩聚餐無雷區**：
-    *   **永林綜合料理 (永林牛肉鍋)** [📍地圖](https://www.google.com/maps/search/?api=1&query=永林綜合料理+台南)：*長輩絕對會愛！* 在地人私推，肉質極佳且環境適合聚餐，就在成大附近，長輩吃完讚不絕口。
-    *   **成大醫院住院大樓餐廳** [📍地圖](https://www.google.com/maps/search/?api=1&query=成大醫院住院大樓餐廳+台南)：內行人才知道的「院內美食」，乾淨衛生又好吃，回診時可直接就近解決。
-*   **在地人狂推小店與點心**：
-    *   **城邊真味鱔魚意麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=城邊真味鱔魚意麵+台南)：*米其林推薦！* 鱔魚新鮮鮮甜，處理得一級棒。網友推薦「乾炒鱔魚」勝過羹麵，必點「麻油腰只湯」。
-    *   **小裕樂** [📍地圖](https://www.google.com/maps/search/?api=1&query=小裕樂+台南)：極度推薦他們的「麻奶」系列。
-    *   **田園咖哩** [📍地圖](https://www.google.com/maps/search/?api=1&query=田園咖哩+台南)：東西超級好吃、用料實在，但老闆臉有點臭，去吃請做好心理準備。
-    *   **新一軍食堂** [📍地圖](https://www.google.com/maps/search/?api=1&query=新一軍食堂+台南)：炸醬麵被網友評價為「嘎嘎頂（超級無敵頂級）」。
-    *   **裕農水煎包** [📍地圖](https://www.google.com/maps/search/?api=1&query=裕農水煎包+台南)：東區人的私藏銅板點心。
-*   **飲料、冰品與甜點**：
-    *   **螞蟻亂爬 (Antopia)** [📍地圖](https://www.google.com/maps/search/?api=1&query=螞蟻亂爬+台南)：位在火車站附近（復興市場旁）的早午餐與甜點店，烤餅與檸檬塔非常棒，咖啡也深獲好評。
-    *   **蘇果の森林** [📍地圖](https://www.google.com/maps/search/?api=1&query=蘇果の森林+台南)：推薦給長輩喝「蘋果牛奶」或「蘋果青茶」，養生又清爽。
-    *   **劉家楊桃湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=劉家楊桃湯+台南)：位於北門路上（近火車站）的老字號。**⚠️ 實喝心得**：實際喝起來**偏水、味道較淡**，若想喝純濃古早味楊桃湯，強烈建議改去中西區青年路的 **「蜜桃香楊桃湯」**！
-    *   **良友冷飲店** [📍地圖](https://www.google.com/maps/search/?api=1&query=良友冷飲店+台南)：*成大人的回憶！* 位於大學路上，必點招牌「刀削蜜豆冰」，以口感特別的粗碎冰（刀削冰）搭配豐富豆類與新鮮水果，是在地超過 30 年的老字號平價冰店。這裡的古早味鍋燒麵跟蛋餅也很有名喔！
-    *   **欣欣冰果室 (育樂街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=欣欣冰果室+台南)：鄰近成大學區的隱藏版老店，主打古早味的「香蕉清冰」，清涼消暑。
-*   **⚠️ 在地人避雷區**：
-    *   **丹瓦樓 (仁和路98號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=丹瓦樓+台南)：近期非常紅的網美店（皮蛋炸豆腐、蘿蔔糕），裝潢一流且大排長龍，但在地網友與脆友評價相當兩極，許多人反應「滷味秤重計價方式奇怪」、「吃裝潢與流行為主，口味普普」，若為了排隊可能要三思。
-*   **市場尋寶**：
-    *   **後甲黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=後甲黃昏市場+台南)：南紡購物中心後方，環境非常乾淨，蔬菜攤旁邊的雞肉攤老闆是不踩雷口袋名單。
-
----
-
-## 📍 【仁德區】（奇美博物館與近郊特色景點）
-距離台南市中心有一段車程（鄰近台86線快速道路與保安車站），適合安排半日遊或自駕順遊。
-
-*   **國際級與特色景點**：
-    *   **台南奇美博物館** [📍地圖](https://www.google.com/maps/search/?api=1&query=奇美博物館+台南)：*來台南必排的國際級景點！* 擁有豐富的西洋藝術與樂器收藏，絕美的純白歐風建築與戶外庭園更是讓人彷彿置身歐洲，不論是參觀展覽或在外圍拍照都非常值得。
-    *   **牛稠子鐵道公園** [📍地圖](https://www.google.com/maps/search/?api=1&query=牛稠子鐵道公園+台南)：非常好拍的特色人造鐵道車站景點。
-    *   **毛孩森活村** [📍地圖](https://www.google.com/maps/search/?api=1&query=仁德區遊蕩犬暫置區毛孩森活村+台南)：全國首座公部門設立的「遊蕩犬友善園區」！座落於台糖綠蔭林地中，顛覆傳統收容所高密度鐵籠的刻板印象，設有色彩繽紛的小木屋狗舍、綠籬草地與森林步道，宛如狗狗的森林渡假村，開放民眾前往散步、與性情穩定的浪犬互動及認養。
+*   **🚗 附近常用停車場**：
+    *   台南火車站後站（大學路／成大周邊）平面及地下停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=台南後火車站停車場+台南)
+    *   南紡購物中心停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=南紡購物中心停車場+台南)（近後甲黃昏市場）
+*   **文創與建築**：
+    *   **西竹圍之丘文創園區 (後火車站)** [📍地圖](https://www.google.com/maps/search/?api=1&query=西竹圍之丘文創園區+台南)：選物小店、手作工坊
+    *   **台南神學院** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南神學院+台南)：歐風古蹟建築、《一把青》取景地
+*   **聚餐推薦**：
+    *   **永林綜合料理 (永林牛肉鍋)** [📍地圖](https://www.google.com/maps/search/?api=1&query=永林綜合料理+台南)：溫體牛肉鍋、合菜（長輩聚餐首選）
+    *   **成大醫院住院大樓餐廳** [📍地圖](https://www.google.com/maps/search/?api=1&query=成大醫院住院大樓餐廳+台南)：乾淨平價院內美食
+*   **小吃與正餐**：
+    *   **城邊真味鱔魚意麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=城邊真味鱔魚意麵+台南)：米其林推薦；必點乾炒鱔魚、麻油腰只湯
+    *   **小裕樂** [📍地圖](https://www.google.com/maps/search/?api=1&query=小裕樂+台南)：必點麻奶系列
+    *   **田園咖哩** [📍地圖](https://www.google.com/maps/search/?api=1&query=田園咖哩+台南)：用料實在咖哩（⚠️ 老闆臉較臭）
+    *   **新一軍食堂** [📍地圖](https://www.google.com/maps/search/?api=1&query=新一軍食堂+台南)：必點炸醬麵
+    *   **裕農水煎包** [📍地圖](https://www.google.com/maps/search/?api=1&query=裕農水煎包+台南)：銅板水煎包
+*   **飲料與冰品**：
+    *   **螞蟻亂爬 (Antopia)** [📍地圖](https://www.google.com/maps/search/?api=1&query=螞蟻亂爬+台南)：烤餅、檸檬塔、咖啡
+    *   **蘇果の森林** [📍地圖](https://www.google.com/maps/search/?api=1&query=蘇果の森林+台南)：蘋果牛奶、蘋果青茶
+    *   **劉家楊桃湯 (北門路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=劉家楊桃湯+台南)：**⚠️ 實喝心得**：偏水、味道較淡（建議改喝中西區「蜜桃香楊桃湯」）
+    *   **良友冷飲店 (大學路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=良友冷飲店+台南)：刀削蜜豆冰、鍋燒麵、蛋餅
+    *   **欣欣冰果室 (育樂街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=欣欣冰果室+台南)：古早味香蕉清冰
+*   **市場**：
+    *   **後甲黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=後甲黃昏市場+台南)：南紡後方，蔬菜攤旁雞肉攤推薦
+*   **⚠️ 避雷區**：
+    *   **丹瓦樓 (仁和路98號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=丹瓦樓+台南)：皮蛋炸豆腐、蘿蔔糕；評價兩極（滷味秤重計價爭議、偏吃裝潢）
 
 ---
 
-## 📍 【中西區】（核心觀光與老店一級戰區）
-台南小吃最密集的地方，古蹟與美食交織，適合安排一整天的散步行程。
+## 📍 【仁德區】
 
-*   **舊城區徒步生活圈 (府城慢活散步地圖)**：
-    *   **蝸牛巷 (中正路/民生路巷弄)** [📍地圖](https://www.google.com/maps/search/?api=1&query=蝸牛巷+台南)：台南最慢活的文學巷弄！走進台灣文學家葉石濤筆下的靜好歲月。建議週四或週五來訪，避開人潮又能遇到最多店營業。必吃來自東京的人氣「haritts 甜甜圈」，並造訪靜謐的「松本書店」。
-    *   **新美街 (舊稱米街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=新美街+台南)：這是一條新舊衝擊感極強的街道。百年香舖、彩繪壁畫與現代風格的選物店、職人餐廳共存。漫步在這裡，空氣中混合著木頭香、肉燥香與咖啡香，極具生活感。
-    *   **忠義路158巷 (在地人稱「番薯崎」)** [📍地圖](https://www.google.com/maps/search/?api=1&query=忠義路158巷+台南)：神祕的斜坡地形巷弄。這裡有府城僅存的百年炭行「盛興木炭行」、收藏家最愛的古道具店「鳥飛古物店」，以及僅有十席的超人氣海鮮丼「十平 (ZYUU TSUBO)」。建議週五或週六前往，以免許多職人小店公休。
-    *   **西市場 (大菜市) 與南區美食街** [📍地圖](https://www.google.com/maps/search/?api=1&query=西市場+台南)：百年古蹟華麗回歸！可以欣賞明治時代的壯觀建築結構、走逛傳統布料批發與文創店。全新的室內美食聚落不僅有冷氣（炎夏與雨天救星），還匯集了各種傳統小吃與排隊甜點。
-*   **打卡秘境與私房巷弄小店**：
-    *   **台南孔廟與府中街商圈 (莿桐花巷)** [📍地圖](https://www.google.com/maps/search/?api=1&query=府中街+台南)：逛完「台南孔廟」後可到對面的府中街。**⚠️ 避雷注意：這條街的平假日人潮差異極大！** 平日非常冷清，許多攤販與店家不營業，若想逛熱鬧的假日市集、體驗「傳統椪糖DIY」，請**務必安排在週末假日**前往。平日來只適合喜歡寧靜散步、吃碗「保哥炒泡麵」或「2元黑輪」的旅客。
-    *   **原臺南武德殿 (忠義國小內)** [📍地圖](https://www.google.com/maps/search/?api=1&query=原臺南武德殿+台南)：緊鄰台南孔廟、建於 1936 年的日治時期武道場古蹟！全台現存規模最大且工藝最精美的武德殿之一，以鋼筋混凝土仿造傳統日式社殿木構造（入母屋造屋頂），氣勢宏偉。**💡 參觀注意**：因目前作為忠義國小禮堂使用，平日上課期間不對外開放，建議**週末假日**再順道與孔廟、府中街、摸鼻子文房具（也在忠義路上）一起排入散步動線！
-    *   **摸鼻子文房具 (原雅士行)** [📍地圖](https://www.google.com/maps/search/?api=1&query=摸鼻子文房具+台南)：隱身在中西區忠義路上，由老字號文具店「雅士行」華麗轉型而來的文創選物店。這裡是手帳控與文具迷絕對會尖叫的寶藏天堂，有各種精緻貼紙與獨立文具品牌！
-    *   **延平郡王祠與周邊巷弄** [📍地圖](https://www.google.com/maps/search/?api=1&query=延平郡王祠與周邊巷弄+台南)：這裡不僅是重要的歷史古蹟，周邊更藏著許多寧靜的日式復古攝影棚與巷弄小店，遠離喧囂，非常有味道。
-    *   **信義街 (舊稱老古石街) 與 兌悅門** [📍地圖](https://www.google.com/maps/search/?api=1&query=信義街+台南)：台南近年來質感極高、極具文青氣息的秘境老街！街底的「兌悅門」是台南唯一還能通行車輛的老城門（可以爬上去拍照）。整條街沒有國華街的擁擠，保留了三層樓以下的絕美天際線與咾咕石建築（必看：硓𥑮石黃宅、蘇昭統故居），下午 3-4 點的光影最迷人。這裡有：
-        *   **老古石碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=老古石碗粿+台南)：寧靜早午餐好去處。
-        *   **筑馨居** [📍地圖](https://www.google.com/maps/search/?api=1&query=筑馨居+台南)：獲得米其林必比登推介的百年老宅無菜單料理。
-        *   **Lola 蘿拉冷飲店** [📍地圖](https://www.google.com/maps/search/?api=1&query=Lola+蘿拉冷飲店+台南)：隱藏版老宅酒吧，網友笑稱是「被酒吧耽誤的咖哩飯店」，蘋果肉桂薄餅必點！
-        *   **宜日屋** [📍地圖](https://www.google.com/maps/search/?api=1&query=宜日屋+台南)：巷弄裡的溫馨家庭式料理，專賣咖哩飯與馬鈴薯燉肉，充滿日本小店味道。
-        *   隱藏版咖啡廳（如狐狸小屋、木蘭咖啡）。漫步在這裡，非常有穿越時空的寧靜氛圍，甚至能隨處遇到曬太陽的貓咪。
-*   **台南魂：菜粽（外地人請謹慎挑戰）**：
-    *   *特色科普*：台南的菜粽是水煮的，通常只包糯米與花生。靈魂在於特製醬油膏、花生粉，並且**「絕對不能沒有香菜」**！通常還會配上一碗熱騰騰的味噌湯。
-    *   **80歲阿嬤菜粽 (中正路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=80歲阿嬤菜粽+台南)：一個菜粽加一碗味噌湯只要 40 元，阿嬤賣了 50 幾年，極度佛心。
-    *   **沙淘宮菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=沙淘宮菜粽+台南)：太子廟前的老字號，要早起才吃得到。
-    *   **明和菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=明和菜粽+台南)：傳說級的神店，因為太早賣光，常被鄉親笑稱「還以為店名就叫做賣完了」。
-    *   **阿忠菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿忠菜粽+台南)：24小時營業，隨時想吃都有。
+*   **台南奇美博物館** [📍地圖](https://www.google.com/maps/search/?api=1&query=奇美博物館+台南)：西洋藝術與樂器收藏、歐風建築庭園（園區附設大型收費停車場）
+*   **牛稠子鐵道公園** [📍地圖](https://www.google.com/maps/search/?api=1&query=牛稠子鐵道公園+台南)：復古人造鐵道車站拍照景點（周邊白線好停）
+*   **毛孩森活村** [📍地圖](https://www.google.com/maps/search/?api=1&query=仁德區遊蕩犬暫置區毛孩森活村+台南)：遊蕩犬友善森林園區，可散步與浪犬互動認養（園區附設停車空間）
+
+---
+
+## 📍 【中西區】
+
+*   **🚗 附近常用停車場**：
+    *   海安路地下停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=海安路地下停車場+台南)（近國華街、神農街、保安路、水仙宮）
+    *   台南市美術館2館地下停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=臺南市美術館2館地下停車場+台南)（近孔廟、府中街、忠義路）
+    *   台灣聯通赤崁場停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=赤崁樓附近停車場+台南)（近赤崁樓、新美街、民族路）
+*   **散步街區與古蹟**：
+    *   **蝸牛巷** [📍地圖](https://www.google.com/maps/search/?api=1&query=蝸牛巷+台南)：文學巷弄、haritts 甜甜圈、松本書店（建議週四、五去）
+    *   **新美街 (米街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=新美街+台南)：百年香舖、選物店、職人餐廳
+    *   **忠義路158巷 (番薯崎)** [📍地圖](https://www.google.com/maps/search/?api=1&query=忠義路158巷+台南)：盛興木炭行、鳥飛古物店、十平海鮮丼（建議週五、六去）
+    *   **西市場 (大菜市)** [📍地圖](https://www.google.com/maps/search/?api=1&query=西市場+台南)：日治古蹟、室內吹冷氣美食街
+    *   **台南孔廟與府中街 (莿桐花巷)** [📍地圖](https://www.google.com/maps/search/?api=1&query=府中街+台南)：椪糖 DIY、保哥炒泡麵、2元黑輪（⚠️ 平日冷清，**建議週末假日去**）
+    *   **原臺南武德殿 (忠義國小內)** [📍地圖](https://www.google.com/maps/search/?api=1&query=原臺南武德殿+台南)：日治武道場古蹟（⚠️ 平日上課不開放，限週末假日參觀）
+    *   **摸鼻子文房具 (忠義路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=摸鼻子文房具+台南)：獨立文具、貼紙選物
+    *   **延平郡王祠與周邊巷弄** [📍地圖](https://www.google.com/maps/search/?api=1&query=延平郡王祠與周邊巷弄+台南)：古蹟與寧靜日式巷弄
+    *   **信義街 (老古石街) 與 兌悅門** [📍地圖](https://www.google.com/maps/search/?api=1&query=信義街+台南)：咾咕石老街與城門（下午 3～4 點光影最佳）
+        *   **老古石碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=老古石碗粿+台南)：早午餐碗粿
+        *   **筑馨居** [📍地圖](https://www.google.com/maps/search/?api=1&query=筑馨居+台南)：米其林必比登老宅無菜單料理
+        *   **Lola 蘿拉冷飲店** [📍地圖](https://www.google.com/maps/search/?api=1&query=Lola+蘿拉冷飲店+台南)：老宅酒吧；必點咖哩飯、蘋果肉桂薄餅
+        *   **宜日屋** [📍地圖](https://www.google.com/maps/search/?api=1&query=宜日屋+台南)：家庭式咖哩飯、馬鈴薯燉肉
+*   **菜粽**（水煮糯米花生＋醬油膏、花生粉、香菜＋味噌湯）：
+    *   **80歲阿嬤菜粽 (中正路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=80歲阿嬤菜粽+台南)：菜粽＋味噌湯 40 元
+    *   **沙淘宮菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=沙淘宮菜粽+台南)：早起限定老字號
+    *   **明和菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=明和菜粽+台南)：極早售罄名店
+    *   **阿忠菜粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿忠菜粽+台南)：24 小時營業
 *   **肉燥飯、米糕與碗粿**：
-    *   **福生小食店 (海安路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=福生小食店+台南)：台南人從小吃到大的經典早午餐老店！從清晨營業至傍晚，招牌「肉燥飯」與「米糕」以古法製作，肥瘦適中、鹹香不膩，內行吃法是一定要配上一碗手工魚丸湯、魚皮湯，再點份扁魚白菜，銅板價就能極度滿足。
-    *   **台南順天肉燥飯 (海安路一段97號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南順天肉燥飯+台南)：原大菜市傳承超過 80 年的老字號！肉燥鹹甜濃郁、油亮卻不膩口，店門口以木炭現烤的 **「炭烤古早味香腸」** 更是靈魂必點，搭配一碗蝦丸湯與蒸蛋是老台南人的日常標配。
-    *   **落成米糕** [📍地圖](https://www.google.com/maps/search/?api=1&query=落成米糕+台南)：在地人強推的米糕愛店，米粒Q彈香氣十足。
-    *   **下大道蘭米糕**（注意：有網友反應近期米有時煮得太爛，請自行斟酌）。
-    *   **阿文米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿文米粿+台南) / **七誠米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=七誠米粿+台南) / **一味品碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=一味品碗粿+台南)：吃米粿的秘訣——一定要叫老闆幫你煎 **「赤赤 (chhiah-chhiah)」** 也就是邊緣微焦酥脆。
-    *   **老古石碗粿 (信義街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=老古石碗粿+台南)：位於充滿古韻的信義街上，吃起來Ｑ彈且充滿米香與肉燥香，是在地人私藏的寧靜早午餐好去處。
-*   **牛肉湯 (中西區篇)**：
-    *   **石精臼牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=石精臼牛肉湯+台南) / **西羅殿牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=西羅殿牛肉湯+台南)：都在中西區的一級戰區，是許多台南土生土長在地人的私房早餐。
-*   **在地特色小吃與點心**：
-    *   **阿星鹹粥 (民族路三段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿星鹹粥+台南)：*米其林必比登推介！* 創立於 1965 年的在地鹹粥代表，店內有冷氣且環境乾淨（清晨 05:00 營業至 13:00，週一公休）。高湯以大量虱目魚骨現熬，鮮甜濃郁，必點「虱目魚肚粥 / 魚皮粥」搭配吸滿肉燥香的 **「肉燥油條」**，早起的老饕還會加點限量「乾拌魚腸」與月桃葉菜粽！
-    *   **阿鳳浮水虱目魚羹 (保安路59號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿鳳浮水虱目魚羹+台南)：創立於 1957 年、保安路一級戰區的超過一甲子名店！手工現捏的「浮水魚羹」外層是 Q 彈虱目魚漿，咬開裡面竟還包著大塊扎實的新鮮虱目魚肚肉，搭配清甜微稠的羹湯、薑絲與香菜，內行吃法是淋上一點**烏醋（黑醋）**提味，從早營業到深夜。
-    *   **邱家小卷米粉** [📍地圖](https://www.google.com/maps/search/?api=1&query=邱家小卷米粉+台南)：*國華街排隊霸主！* 湯頭充滿小卷的鮮甜，搭配粗米粉吸滿湯汁，雖然隨時都在大排長龍，但真的是觀光客來台南必朝聖的經典美味。
-    *   **府城黃家蝦捲 (原鴨母寮蝦捲)** [📍地圖](https://www.google.com/maps/search/?api=1&query=府城黃家蝦捲+台南)：*米其林必比登推介！* 內餡只有滿滿的火燒蝦、高麗菜跟蔥，**完全不加豬肉末**，蝦味極度濃厚！外層用傳統豬網紗包裹油炸，外帶還會用粽葉包裝散熱，是非常道地的傳統手路菜，每天只賣下午幾個小時。
-    *   **大師兄蛋捲** [📍地圖](https://www.google.com/maps/search/?api=1&query=大師兄蛋捲+台南)：*赤崁樓周邊必買！* 老闆做蛋捲痴迷 18 年，甚至把台南特色的虱目魚、牛肉、芒果都捲進手工蛋捲裡，來赤崁樓附近強烈建議順道買來吃。
-    *   **川庭屋 (觀亭街63號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=川庭屋+台南)：*且吃且珍惜的 70 年巷弄秘店！* 隱身在觀亭街的一般民宅裡，沒有醒目招牌，僅在信箱旁掛著一塊寫有「糕」字的小木牌。店內專賣傳統手工 **「綠豆糕」** 與 **「鹽糕」**，外層以懷舊紅紙包裝，入口綿密充滿純粹豆香，不加防腐劑，是極具老台南生活感的隱藏版伴手禮（若 63 號沒人可留意隔壁 77 號）。
-*   **傳統市場尋寶**：
-    *   **東菜市 (青年路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=東菜市+台南)：超過百年歷史的日治時期傳統市場！早期因政商名流與有錢人常來採買而有「好野人市場」之稱，在地舊稱更叫「夭鬼埕」（形容美食多到讓人嘴饞停不下來）。市場內必吃 **「阿真春捲」**、**「阿粉姨牛乳紅茶」** 與各式傳統紅龜粿、熟食滷味，充滿濃厚的府城早市生活感。
-    *   **水仙宮市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=水仙宮市場+台南)：除了逛街，必買「93攤涼筍」（100元一大盒附美乃滋）。另外市場內隱藏著神級排隊美食 **「麵條王海產麵」**，超高 CP 值，點餐時內行人會選擇「分開吃（湯麵分離）」或「全乾」，記得加上店家的自製辣油與滷肉燥！
-        *   **欽欽咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=欽欽咖啡+台南)：藏在喧鬧傳統市場裡的隱密咖啡店。
-    *   **復興市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=復興市場+台南)：近年轉型成極度熱鬧的「深夜食堂」！走進去就像發現新大陸，越晚越熱鬧。
-        *   **春日山** [📍地圖](https://www.google.com/maps/search/?api=1&query=春日山+台南)：必點「日式炒麵」，搭配豆乳美乃滋超讚，而且份量極大！
-        *   **新台琪之家** [📍地圖](https://www.google.com/maps/search/?api=1&query=新台琪之家+台南)：網友狂推他們的肉骨茶。
-        *   **木木彡食舖** [📍地圖](https://www.google.com/maps/search/?api=1&query=木木彡食舖+台南)：溫暖的寵物友善小店，鍋燒意麵與創意小吃很搭。
-        *   **Amare** [📍地圖](https://www.google.com/maps/search/?api=1&query=Amare+台南)：蔥鹽五花肉飯與酥皮濃湯非常優秀。
-        *   **海產粥攤位** [📍地圖](https://www.google.com/maps/search/?api=1&query=海產粥攤位+台南)：熱呼呼的海鮮粥老闆超親切，旁邊還貼心設有洗手槽讓你剝蝦後洗手。
-    *   **鴨母寮公有零售市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=鴨母寮公有零售市場+台南)：台南人超愛逛的早市！外圍有許多不可錯過的隱藏名店。
-        *   **弘記美食店 (鴨母寮阿婆布丁)** [📍地圖](https://www.google.com/maps/search/?api=1&query=弘記美食店+台南)：隱身在市場內的傳奇布丁！除了招牌巨無霸傳統烤布丁外，只在假日限定販售，要買通常得靠搶的。
-        *   **武廟蔡碗粿 (鴨母寮蔡碗粿)** [📍地圖](https://www.google.com/maps/search/?api=1&query=武廟蔡碗粿+台南)：位於市場入口處（三老爺宮牌樓下）的古老手推車攤位！這間 50 多年歷史的碗粿使用舊米製作，中心「倒凹」，米香極度濃郁，只賣早上且週一四公休。
-        *   **阿幸薏仁湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿幸薏仁湯+台南)：位在裕民街上，主打健康養生。薏仁磨成漿熬煮，口感濃稠不勾芡，是吃完市場小吃後的完美甜點。
+    *   **福生小食店 (海安路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=福生小食店+台南)：肉燥飯、米糕、魚丸／魚皮湯、扁魚白菜
+    *   **台南順天肉燥飯 (海安路一段97號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南順天肉燥飯+台南)：肉燥飯、炭烤古早味香腸、蝦丸湯、蒸蛋
+    *   **落成米糕** [📍地圖](https://www.google.com/maps/search/?api=1&query=落成米糕+台南)：招牌米糕
+    *   **下大道蘭米糕**：近期米飯評價偏軟，斟酌
+    *   **阿文米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿文米粿+台南) / **七誠米粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=七誠米粿+台南) / **一味品碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=一味品碗粿+台南)：米粿建議點「赤赤（微焦酥脆）」
+*   **牛肉湯**：
+    *   **石精臼牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=石精臼牛肉湯+台南) / **西羅殿牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=西羅殿牛肉湯+台南)：在地早市牛肉湯
+*   **特色小吃與點心**：
+    *   **阿星鹹粥 (民族路三段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿星鹹粥+台南)：米其林必比登；虱目魚肚／魚皮粥、肉燥油條、限量乾拌魚腸、菜粽（05:00～13:00，週一休）
+    *   **阿鳳浮水虱目魚羹 (保安路59號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿鳳浮水虱目魚羹+台南)：包魚肚肉的浮水魚羹（推薦加烏醋）
+    *   **邱家小卷米粉** [📍地圖](https://www.google.com/maps/search/?api=1&query=邱家小卷米粉+台南)：國華街小卷米粉
+    *   **府城黃家蝦捲** [📍地圖](https://www.google.com/maps/search/?api=1&query=府城黃家蝦捲+台南)：米其林必比登；純火燒蝦豬網紗蝦捲（僅賣下午）
+    *   **大師兄蛋捲** [📍地圖](https://www.google.com/maps/search/?api=1&query=大師兄蛋捲+台南)：虱目魚、牛肉、芒果特色手工蛋捲
+    *   **川庭屋 (觀亭街63號)** [📍地圖](https://www.google.com/maps/search/?api=1&query=川庭屋+台南)：民宅無招牌手工綠豆糕、鹽糕（63號沒人可找隔壁 77 號）
+*   **傳統市場**：
+    *   **東菜市 (青年路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=東菜市+台南)：阿真春捲、阿粉姨牛乳紅茶、傳統粿類與熟食
+    *   **水仙宮市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=水仙宮市場+台南)：93 攤涼筍、麵條王海產麵（推湯麵分離或全乾＋辣油肉燥）、**欽欽咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=欽欽咖啡+台南)
+    *   **復興市場 (深夜食堂)** [📍地圖](https://www.google.com/maps/search/?api=1&query=復興市場+台南)：
+        *   **春日山** [📍地圖](https://www.google.com/maps/search/?api=1&query=春日山+台南)（日式炒麵）、**新台琪之家** [📍地圖](https://www.google.com/maps/search/?api=1&query=新台琪之家+台南)（肉骨茶）、**木木彡食舖** [📍地圖](https://www.google.com/maps/search/?api=1&query=木木彡食舖+台南)（鍋燒意麵）、**Amare** [📍地圖](https://www.google.com/maps/search/?api=1&query=Amare+台南)（蔥鹽五花肉飯、酥皮濃湯）、**海產粥攤位** [📍地圖](https://www.google.com/maps/search/?api=1&query=海產粥攤位+台南)
+    *   **鴨母寮公有零售市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=鴨母寮公有零售市場+台南)：
+        *   **弘記美食店 (阿婆布丁)** [📍地圖](https://www.google.com/maps/search/?api=1&query=弘記美食店+台南)（巨無霸烤布丁，假日限定）
+        *   **武廟蔡碗粿** [📍地圖](https://www.google.com/maps/search/?api=1&query=武廟蔡碗粿+台南)（舊米碗粿，只賣早上、週一四休）
+        *   **阿幸薏仁湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿幸薏仁湯+台南)（無勾芡濃稠薏仁湯）
 *   **鱔魚意麵**：
-    *   **進福炒鱔魚專家** [📍地圖](https://www.google.com/maps/search/?api=1&query=進福炒鱔魚專家+台南)：在地人推薦可搭配「活魷魚」一起吃。
-    *   **老牌方家炒鱔魚** [📍地圖](https://www.google.com/maps/search/?api=1&query=老牌方家炒鱔魚+台南) / **八三鱔魚意麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=八三鱔魚意麵+台南)：在地人的私藏清單。
-*   **被低估的精品咖啡**：
-    *   **木匠手烘咖啡 (Carpenter)** [📍地圖](https://www.google.com/maps/search/?api=1&query=木匠手烘咖啡+台南)：*早鳥救星！* 早上 07:00 就開門營業（中西區有永福店、國華店），自家烘焙的配方豆香氣層次豐富，**拿鐵極度順口好喝**，平價又有木質復古質感。
-    *   **秘氏咖啡 (永樂市場二樓)** [📍地圖](https://www.google.com/maps/search/?api=1&query=秘氏咖啡+台南)：極度神秘的老城風味，**⚠️ 注意：進門請收起相機，店內禁止拍照！**
-    *   **here Kyoto 台南** [📍地圖](https://www.google.com/maps/search/?api=1&query=here+Kyoto+台南)：京都職人跨海來開的店，早上 07:30 就營業！
-    *   **古意人咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=古意人咖啡+台南)：早上 07:40 開門，是台南早鳥的秘密基地。
-    *   **萃行咖啡館** [📍地圖](https://www.google.com/maps/search/?api=1&query=萃行咖啡館+台南)：週五營業到凌晨，台南夜貓子的救星。
-    *   **道南館** [📍地圖](https://www.google.com/maps/search/?api=1&query=道南館+台南) / **JJ虹吸咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=JJ虹吸咖啡+台南)：喜歡精品豆與老牌咖啡的資深愛好者必去。
-*   **家庭熱炒與異國料理**：
-    *   **高家現炒 (正德街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=高家現炒+台南)：創立於 1978 年、隱身在中西區正德街巷弄裡（近河樂廣場）的低調老牌快炒店！走進店裡就像在自家老宅客廳吃飯一樣充滿懷舊常民生活感，主打平價道地的台式家常熱炒（蔭鼓蚵、蒜苗五花肉、蝦仁蛋等），是在地人私藏的口袋名單。
-    *   **咕嚕家庭料理館 (慶中街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=咕嚕家庭料理館+台南)：乾淨、好吃。提供熱炒、鮮魚與家庭簡餐，是非常溫馨無雷的選擇。
-    *   **帕里諾咖啡 (Panino Cafe)** [📍地圖](https://www.google.com/maps/search/?api=1&query=帕里諾咖啡+台南)：帕尼尼的乳酪會直接炸出來，夭壽好吃。
+    *   **進福炒鱔魚專家** [📍地圖](https://www.google.com/maps/search/?api=1&query=進福炒鱔魚專家+台南)（可配活魷魚） / **老牌方家炒鱔魚** [📍地圖](https://www.google.com/maps/search/?api=1&query=老牌方家炒鱔魚+台南) / **八三鱔魚意麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=八三鱔魚意麵+台南)
+*   **精品咖啡**：
+    *   **木匠手烘咖啡 (Carpenter)** [📍地圖](https://www.google.com/maps/search/?api=1&query=木匠手烘咖啡+台南)：07:00 開門，拿鐵順口好喝
+    *   **秘氏咖啡 (永樂市場二樓)** [📍地圖](https://www.google.com/maps/search/?api=1&query=秘氏咖啡+台南)：老城風格（⚠️ **店內禁止拍照**）
+    *   **here Kyoto 台南** [📍地圖](https://www.google.com/maps/search/?api=1&query=here+Kyoto+台南)（07:30 開） / **古意人咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=古意人咖啡+台南)（07:40 開） / **萃行咖啡館** [📍地圖](https://www.google.com/maps/search/?api=1&query=萃行咖啡館+台南)（週五開至凌晨） / **道南館** [📍地圖](https://www.google.com/maps/search/?api=1&query=道南館+台南) / **JJ虹吸咖啡** [📍地圖](https://www.google.com/maps/search/?api=1&query=JJ虹吸咖啡+台南)
+*   **熱炒與餐廳**：
+    *   **高家現炒 (正德街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=高家現炒+台南)：平價家常熱炒（蔭鼓蚵、蒜苗五花肉、蝦仁蛋）
+    *   **咕嚕家庭料理館 (慶中街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=咕嚕家庭料理館+台南)：熱炒、鮮魚、家庭簡餐
+    *   **帕里諾咖啡 (Panino Cafe)** [📍地圖](https://www.google.com/maps/search/?api=1&query=帕里諾咖啡+台南)：爆漿乳酪帕尼尼
 *   **冰品與手搖**：
-    *   **蜜桃香楊桃湯 (青年路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=蜜桃香楊桃湯+台南)：*✨ 實喝激推！* 開業超過一甲子的古早味涼飲店（就在東菜市附近），店前擺滿紅黃綠傳統蜜餞玻璃大罐極有復古味。因早期加入蜂蜜熬煮而取名「蜜桃香（有蜜香的楊桃湯）」，**楊桃湯非常純濃甘醇**（完勝偏水的劉家），點楊桃冰還能吃到軟 Q 入味的醃楊桃果肉與李鹹冰！
-    *   **品佳菊花茶 (海安路/大勇街口)** [📍地圖](https://www.google.com/maps/search/?api=1&query=品佳菊花茶+台南)：台南老字號古早味涼水攤！招牌菊花茶清香回甘、極度退火解膩，另有冬瓜茶與傳統紅茶，許多在地人和運將大哥都是直接「整罐」買回家喝。
-    *   **小西腳青草茶 (西門路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=小西腳青草茶+台南)：經營超過一甲子的老字號涼水攤！位於舊稱「小西門」城腳一帶（近保安路商圈），嚴選十餘種青草古法熬煮並調入薄荷，喝起來帶有清新草香與舒爽涼感（可選有糖或無糖），「蓮藕茶」也是人氣必點。
-    *   **太陽牌冰品 (民權路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=太陽牌冰品+台南)：台南在地老字號！以「草湖芋仔冰」和「紅豆牛奶霜」聞名，是非常經典的復古台南冰果室體驗。
-    *   **龍興冰品店 (金華路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=龍興冰品店+台南)：營業到深夜 12 點的老字號冰店！除了八寶冰與豆花，配料選擇極多（推薦加銀波布丁），是台南夜貓子的宵夜冰品首選。
-    *   **懷舊小棧杏仁豆腐冰 (五妃街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=懷舊小棧杏仁豆腐冰+台南)：下午一兩點過後才會有湯圓，湯圓配冰極度好吃。
-    *   **60+ Tea Shop** [📍地圖](https://www.google.com/maps/search/?api=1&query=60++Tea+Shop+台南)：取代傳統排隊名店的新寵兒！在地人激推，來這裡請點「金烏龍」或「紅烏龍」。
-    *   **壽奶茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=壽奶茶+台南) / **雙生綠豆沙牛奶** [📍地圖](https://www.google.com/maps/search/?api=1&query=雙生綠豆沙牛奶+台南) / **藥師紅茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=藥師紅茶+台南)：中西區極具人氣的安全牌選擇。
+    *   **蜜桃香楊桃湯 (青年路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=蜜桃香楊桃湯+台南)：**⭐ 實喝激推**：楊桃湯非常純濃、楊桃冰、李鹹冰（近東菜市）
+    *   **品佳菊花茶 (海安路/大勇街口)** [📍地圖](https://www.google.com/maps/search/?api=1&query=品佳菊花茶+台南)：菊花茶、冬瓜茶、紅茶（可買整罐）
+    *   **小西腳青草茶 (西門路一段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=小西腳青草茶+台南)：薄荷青草茶、蓮藕茶
+    *   **太陽牌冰品 (民權路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=太陽牌冰品+台南)：草湖芋仔冰、紅豆牛奶霜
+    *   **龍興冰品店 (金華路)** [📍地圖](https://www.google.com/maps/search/?api=1&query=龍興冰品店+台南)：八寶冰、豆花、銀波布丁（開至 24:00）
+    *   **懷舊小棧杏仁豆腐冰 (五妃街)** [📍地圖](https://www.google.com/maps/search/?api=1&query=懷舊小棧杏仁豆腐冰+台南)：杏仁豆腐冰＋湯圓（下午 1～2 點後才有湯圓）
+    *   **60+ Tea Shop** [📍地圖](https://www.google.com/maps/search/?api=1&query=60++Tea+Shop+台南)：必點金烏龍、紅烏龍
+    *   **壽奶茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=壽奶茶+台南) / **雙生綠豆沙牛奶** [📍地圖](https://www.google.com/maps/search/?api=1&query=雙生綠豆沙牛奶+台南) / **藥師紅茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=藥師紅茶+台南)
 
 ---
 
 ## 📍 【北區、安南區、安平區與永康區】
 
-*   **北區**：
-    *   **原臺南公園管理所 (臺南公園內)** [📍地圖](https://www.google.com/maps/search/?api=1&query=原臺南公園管理所+台南)：*森林裡的童話古蹟！* 建於 1917 年（大正6年），擁有獨特的西洋都鐸式建築造型與木條裝飾，最特別的是屋身由 **「硓𥑮石（珊瑚礁石）」** 砌建而成（相傳是拆除清代大北門月城遺留的石材再利用），入口木柱還帶有仿日式鳥居語彙，修復後宛如綠林裡的「魔法之屋」，非常適合與對面的偕行社一起順遊拍照。
-    *   **原日本陸軍台南偕行社 (台南公園對面)** [📍地圖](https://www.google.com/maps/search/?api=1&query=原日本陸軍台南偕行社+台南)：*隱藏版百年古蹟！* 走進這棟超美的歷史建築，現在已經變成充滿藝術展覽與極致 Chill 的咖啡空間 (CLUBHOUSE)，非常適合喜歡寧靜古蹟與藝文氛圍的人。
-    *   **老店菜粽 (西門路三段/立人國小旁)** [📍地圖](https://www.google.com/maps/search/?api=1&query=老店菜粽+台南)：台南名店，早上十點就賣光，味噌湯裡還有加油條！網友戲稱是「通緝犯被抓之前也要來吃的店」。
-    *   **和緯黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=和緯黃昏市場+台南)：有一攤還沒開攤就排滿人潮的「油雞/醉雞」極度搶手。
-    *   **台南葡吉麵包店** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南葡吉麵包店+台南)：*內行秘訣：提前幾天打電話預訂羅宋麵包，下午再過去拿*，免排隊。
-    *   **甜在心咖啡館** [📍地圖](https://www.google.com/maps/search/?api=1&query=甜在心咖啡館+台南)：隱身北區巷弄，擁有台灣拉花冠軍。
-    *   **榕樹下璞味綿綿冰** [📍地圖](https://www.google.com/maps/search/?api=1&query=榕樹下璞味綿綿冰+台南)：被網友封為台南冰品第一名。
+*   **北區**（停車：公園南路／臺南公園周邊停車格、和緯黃昏市場停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=和緯黃昏市場停車場+台南)）：
+    *   **原臺南公園管理所 (臺南公園內)** [📍地圖](https://www.google.com/maps/search/?api=1&query=原臺南公園管理所+台南)：1917 年西洋都鐸式硓𥑮石古蹟（可順遊對面偕行社）
+    *   **原日本陸軍台南偕行社** [📍地圖](https://www.google.com/maps/search/?api=1&query=原日本陸軍台南偕行社+台南)：百年古蹟藝文展演與咖啡空間
+    *   **老店菜粽 (西門路三段)** [📍地圖](https://www.google.com/maps/search/?api=1&query=老店菜粽+台南)：菜粽＋加油條味噌湯（早上 10 點前常完售）
+    *   **和緯黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=和緯黃昏市場+台南)：必搶油雞／醉雞攤
+    *   **台南葡吉麵包店** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南葡吉麵包店+台南)：羅宋麵包（提前電話預訂下午取貨免排隊）
+    *   **甜在心咖啡館** [📍地圖](https://www.google.com/maps/search/?api=1&query=甜在心咖啡館+台南)（拉花冠軍） / **榕樹下璞味綿綿冰** [📍地圖](https://www.google.com/maps/search/?api=1&query=榕樹下璞味綿綿冰+台南)
 *   **安南區**：
-    *   **鹿耳門夢幻湖** [📍地圖](https://www.google.com/maps/search/?api=1&query=鹿耳門夢幻湖+台南) / **府城天險** [📍地圖](https://www.google.com/maps/search/?api=1&query=府城天險+台南)：遠離市區的超冷門秘境！特別是府城天險，是非常棒的觀夕陽景點。
-    *   **安南和順市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南和順市場+台南)：必吃「財爐興海鮮粥」，100元超大碗料超多！炸甜不辣大碗公只要35元。
-    *   **安南果菜市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南果菜市場+台南)：超大像迷宮，吃喝穿全包！網友激推裡面的「蝦仁肉圓」與肉羹。
-    *   **安南20元無名肉粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南20元無名肉粽+台南)：肉粽、菜粽、碗粿通通只要 20 元，味噌湯 10 元，CP值突破天際。
-    *   **東香台菜海味料理** [📍地圖](https://www.google.com/maps/search/?api=1&query=東香台菜海味料理+台南)：*米其林必比登推介的霸氣辦桌菜！* 由知名的愛心總舖師「大頭師」掌廚，主打傳統手路菜與台江在地海鮮料理（如紅蟳米糕、菜尾湯等），非常適合家族與多人聚餐。（提醒：部分手路菜需預訂，去之前強烈建議先打電話訂位）
-*   **安平區**：
-    *   **金鳳陽春麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=金鳳陽春麵+台南)：*窮鬼救星！* 便宜又大碗，許多在地人哀號「拜託不要爆料出來」的愛店。
-    *   **是吉祥火鍋** [📍地圖](https://www.google.com/maps/search/?api=1&query=是吉祥火鍋+台南)：安平區的人氣傳統火鍋。
-    *   **文章牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=文章牛肉湯+台南)：觀光客必訪名店，但許多網友特別推薦要點他們的**「炒牛肉」**系列。
+    *   **鹿耳門夢幻湖** [📍地圖](https://www.google.com/maps/search/?api=1&query=鹿耳門夢幻湖+台南) / **府城天險** [📍地圖](https://www.google.com/maps/search/?api=1&query=府城天險+台南)：冷門觀夕陽秘境（路邊好停）
+    *   **安南和順市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南和順市場+台南)：財爐興海鮮粥、35 元炸甜不辣
+    *   **安南果菜市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南果菜市場+台南)：蝦仁肉圓、肉羹（附設大型停車場）
+    *   **安南20元無名肉粽** [📍地圖](https://www.google.com/maps/search/?api=1&query=安南20元無名肉粽+台南)：20 元肉粽／菜粽／碗粿、10 元味噌湯
+    *   **東香台菜海味料理** [📍地圖](https://www.google.com/maps/search/?api=1&query=東香台菜海味料理+台南)：米其林必比登辦桌菜（紅蟳米糕、菜尾湯；建議提前訂位）
+*   **安平區**（停車：安平運河／安平路周邊公有停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=安平路停車場+台南)）：
+    *   **金鳳陽春麵** [📍地圖](https://www.google.com/maps/search/?api=1&query=金鳳陽春麵+台南)：平價大碗陽春麵
+    *   **是吉祥火鍋** [📍地圖](https://www.google.com/maps/search/?api=1&query=是吉祥火鍋+台南)：在地傳統火鍋
+    *   **文章牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=文章牛肉湯+台南)：牛肉湯、推薦點炒牛肉系列
 *   **永康區**：
-    *   **尚青黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=尚青黃昏市場+台南)：除了生鮮標價清楚好逛，裡面的「水煎包」也是隱藏美食。
-    *   **阿銘土產牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿銘土產牛肉湯+台南) / **尚好吃牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=尚好吃牛肉湯+台南)：在地人私藏的牛肉湯好店。
+    *   **尚青黃昏市場** [📍地圖](https://www.google.com/maps/search/?api=1&query=尚青黃昏市場+台南)：水煎包（附設停車場）
+    *   **阿銘土產牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿銘土產牛肉湯+台南) / **尚好吃牛肉湯** [📍地圖](https://www.google.com/maps/search/?api=1&query=尚好吃牛肉湯+台南)
 
 ---
 
 ## 📍 【善化區】
 
-*   **百年傳統趕集**：
-    *   **善化牛墟** [📍地圖](https://www.google.com/maps/search/?api=1&query=善化牛墟+台南)：*台灣現存規模最大的百年傳統市集！* 注意：它並非天天營業，只有在**國曆日期尾數為 2、5、8** 的日子（如2、5、8、12、15等）清晨 05:30 到中午營業。這裡被稱為農村的「庶民百貨公司」，什麼都賣（從小雞小鴨、農具到植栽都有）。來到這裡**必吃極度新鮮的溫體牛肉湯，以及獨特的「紅糟牛肉羹」**！
+*   **善化牛墟** [📍地圖](https://www.google.com/maps/search/?api=1&query=善化牛墟+台南)
+    *   **看點與必吃**：百年傳統趕集、溫體牛肉湯、紅糟牛肉羹
+    *   **營業時間**：限**國曆日期尾數 2、5、8** 之 05:30～中午（周邊附設停車場）
 
 ---
 
-## 📍 【麻豆區】（碗粿原鄉與公有市場老滋味）
-說到麻豆可不只有文旦！來到這裡想吃最道地的在地人早餐，一定要直奔「麻豆市五公有零售市場（第五市場）」挖寶：
+## 📍 【麻豆區】
 
-*   **傳統市場在地老店**：
-    *   **阿助麻豆碗粿 (市五市場)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿助麻豆碗粿+台南)：隱身在市五市場內的傳奇老攤！在地人私藏名單，許多老饕認為完勝觀光客常去的大馬路名店。使用純正在來米漿搭配豐富油蔥肉燥、香菇與蛋黃，口感扎實又 Q 彈，淋上特製蒜泥油膏香氣逼人，通常中午前就會完售，想吃一定要趁早！
-    *   **麻豆土魠魚焿 (市五公有零售市場)** [📍地圖](https://www.google.com/maps/search/?api=1&query=麻豆市五公有零售市場+土魠魚焿+台南)：市場內的超人氣老字號！外層金黃酥脆的炸土魠魚塊鮮甜無腥味，浸在帶有大白菜甘甜與微酸蒜香的道地台南風味焿湯裡，配上一碗油麵或米粉，是麻豆人從小吃到大的經典美味。
-    *   **李爽碗粿 (中央市場)** [📍地圖](https://www.google.com/maps/search/?api=1&query=李爽碗粿+台南)：麻豆中央市場內超過 30 年的古早味攤位（22號攤），特色是直接將叉子插在碗粿上端上桌。**⚠️ 實吃心得**：雖然現場不少在地人吃，但它的**口感太過滑順，少了傳統米漿碗粿該有的微粗米粒感，個人不愛**（喜歡傳統扎實米香口感的人建議選阿助）。
+*   **🚗 附近停車**：麻豆市五公有零售市場周邊停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=麻豆第五市場停車場+台南)
+*   **阿助麻豆碗粿 (市五市場)** [📍地圖](https://www.google.com/maps/search/?api=1&query=阿助麻豆碗粿+台南)：純在來米扎實碗粿（中午前常售罄）
+*   **麻豆土魠魚焿 (市五市場)** [📍地圖](https://www.google.com/maps/search/?api=1&query=麻豆市五公有零售市場+土魠魚焿+台南)：酥炸土魠魚羹配油麵／米粉
+*   **李爽碗粿 (中央市場22號攤)** [📍地圖](https://www.google.com/maps/search/?api=1&query=李爽碗粿+台南)：**⚠️ 實吃心得**：口感太滑順、缺傳統米粒感，個人不愛（推薦改吃阿助）
 
 ---
 
 ## 📍 【南區與玉井區】
 
-*   **南區**：
-    *   **哈赫拿爾森林** [📍地圖](https://www.google.com/maps/search/?api=1&query=哈赫拿爾森林+台南) / **竹溪水岸步道** [📍地圖](https://www.google.com/maps/search/?api=1&query=竹溪水岸步道+台南)：近期討論度很高的新打卡秘境，但脆友特別提醒：因為隔一條馬路就是公墓，且當地**野狗與綠鬣蜥非常多**，前往散步請務必小心留意！
-*   **玉井區**：
-    *   **白色教堂** [📍地圖](https://www.google.com/maps/search/?api=1&query=白色教堂+台南)：網美必訪的隱藏版白色建築秘境。
+*   **南區**：**哈赫拿爾森林** [📍地圖](https://www.google.com/maps/search/?api=1&query=哈赫拿爾森林+台南) / **竹溪水岸步道** [📍地圖](https://www.google.com/maps/search/?api=1&query=竹溪水岸步道+台南)：水岸步道（⚠️ 旁有公墓，野狗與綠鬣蜥多）
+*   **玉井區**：**白色教堂** [📍地圖](https://www.google.com/maps/search/?api=1&query=白色教堂+台南)：白色建築拍照景點（附設停車場）
 
 ---
 
 ## 📍 【將軍區與台南海線】
-如果想體驗充滿海味的漁村風情，台南的海線絕對能讓您滿載而歸！
 
-*   **將軍漁港與周邊秘境**：
-    *   **將軍漁港** [📍地圖](https://www.google.com/maps/search/?api=1&query=將軍漁港+台南)：台南最大的漁港！一樓有熱鬧的漁貨拍賣中心（建議下午 1-2 點前往），您可以買完現撈海鮮後直接請二樓餐廳「代客料理」。夏天的「將軍吼音樂節」也是在這裡舉辦，黃昏時分的夕陽極度美麗。
-    *   **青鯤鯓扇形鹽田 (生命之樹)** [📍地圖](https://www.google.com/maps/search/?api=1&query=青鯤鯓扇形鹽田+台南)：網路上非常夯的打卡地標，特殊的扇形鹽田景觀配上純白裝置藝術，怎麼拍都好看。
-*   **海線必吃美食**：
-    *   **秀里蚵嗲 (青鯤鯓)** [📍地圖](https://www.google.com/maps/search/?api=1&query=秀里蚵嗲+台南)：*將軍區必吃人氣王！* 藏在巷弄裡的神級小吃，外皮炸得極度金黃酥脆，內餡鮮甜飽滿，是來海線旅遊絕不能錯過的銅板美食。
-    *   **謙備伯冰店** [📍地圖](https://www.google.com/maps/search/?api=1&query=謙備伯冰店+台南)：創立於1947年的在地老字號冰店，吃完炸蚵嗲後來杯古早味冰品消暑最對味。
+*   **將軍漁港** [📍地圖](https://www.google.com/maps/search/?api=1&query=將軍漁港+台南)：1 樓漁貨拍賣（約 13:00～14:00）、2 樓代客料理、看夕陽（港區附設免費停車場）
+*   **青鯤鯓扇形鹽田 (生命之樹)** [📍地圖](https://www.google.com/maps/search/?api=1&query=青鯤鯓扇形鹽田+台南)：扇形鹽田與純白裝置藝術（周邊白線停車）
+*   **秀里蚵嗲 (青鯤鯓)** [📍地圖](https://www.google.com/maps/search/?api=1&query=秀里蚵嗲+台南)：必吃炸蚵嗲 / **謙備伯冰店** [📍地圖](https://www.google.com/maps/search/?api=1&query=謙備伯冰店+台南)：古早味冰品
 
 ---
 
 ## 📍 【後壁區】
-想感受最道地、最純樸的台灣農村風情與復古時光，絕對要來這裡走一趟！
 
-*   **台劇聖地與懷舊老街**：
-    *   **菁寮老街 (無米樂社區)** [📍地圖](https://www.google.com/maps/search/?api=1&query=菁寮老街+台南)：因紀錄片《無米樂》與超紅台劇《俗女養成記》而爆紅的景點！老街至今仍保留了極度濃厚的農村「嫁妝一條街」風貌。必訪超過 250 年歷史的「金德興藥舖」（陳嘉玲的老家），以及造型超酷的「菁寮聖十字架天主堂」。
-*   **農村必吃**：
-    *   **割稻飯 (如富貴食堂)** [📍地圖](https://www.google.com/maps/search/?api=1&query=割稻飯+台南)：早期農忙時犒賞農民的豐盛餐盒，通常有大塊爌肉跟古早味配菜，來這裡必吃這道充滿人情味的料理。
-    *   **和興冰菓部** [📍地圖](https://www.google.com/maps/search/?api=1&query=和興冰菓部+台南)：擁有 80 多年歷史，以前是當地人相親約會的聖地，裝潢超級復古，來杯招牌香蕉冰或紅豆牛奶冰，完美融入老街氛圍。
+*   **🚗 附近停車**：菁寮老街／墨林停車場 [📍地圖](https://www.google.com/maps/search/?api=1&query=菁寮老街停車場+台南)
+*   **菁寮老街 (無米樂社區)** [📍地圖](https://www.google.com/maps/search/?api=1&query=菁寮老街+台南)：金德興藥舖（《俗女養成記》場景）、菁寮聖十字架天主堂
+*   **割稻飯 (富貴食堂等)** [📍地圖](https://www.google.com/maps/search/?api=1&query=割稻飯+台南)：農村爌肉割稻飯
+*   **和興冰菓部** [📍地圖](https://www.google.com/maps/search/?api=1&query=和興冰菓部+台南)：80 年老冰店，必點香蕉冰、紅豆牛奶冰
 
 ---
 
-> **💡 在地人給觀光客的忠告：**
-> *   **牛肉湯時機**：如果要去名店，建議**平日早上**去吃，假日人潮太可怕。（另外在地人喜歡開玩笑說：觀光客去吃億哥就好了，不要來搶名店！）
-> *   **傳統麵店的浪漫**：台南有超多沒有招牌的「無名麵店」，在地人通常只認路口。路邊看起來不起眼的麵攤，往往才是最道地的台南味！
+## 🏨 台南住宿推薦
 
-## 🏨 台南優質住宿推薦清單
-若要在台南安排兩天一夜以上的深度旅遊，以下是近期網友與社群討論度極高的住宿清單，多位於交通方便的市區：
-
-*   **天下南隅 (Provintia Hotel)** [📍地圖](https://www.google.com/maps/search/?api=1&query=天下南隅+台南)：*社群激推的高質感老字號翻新飯店！*
-    *   **驚喜特色**：房內會附贈古早味小零食（足球巧克力、仙渣糖等）、貼心提供免洗餐具，甚至還有身體磨砂膏。房間電視支援 Netflix、Disney+。他們的**早餐極度推薦，除了好吃還非常好拍**！
-    *   **⚠️ 避雷注意**：部分網友反應洗澡水壓偏低，且因為是老建築翻新，隔音可能稍差，淺眠者請自行斟酌。
-*   **友愛街旅館 (U.I.J Hotel & Hostel)** [📍地圖](https://www.google.com/maps/search/?api=1&query=友愛街旅館+台南)：結合青旅與設計旅館，一樓的交誼廳與書店非常有文青氣息，地理位置極佳（近美術館與國華街商圈）。
-*   **禧榕軒大飯店** [📍地圖](https://www.google.com/maps/search/?api=1&query=禧榕軒大飯店+台南)：擁有絕美的頂樓空中花園泳池，日系高質感路線，距離台南火車站很近，是近期的高人氣熱門住宿。
-*   **廣發寓所** [📍地圖](https://www.google.com/maps/search/?api=1&query=廣發寓所+台南)：重視設計感與住宿品質的優質選擇，在社群上默默有許多擁護者。
-*   **蔚南裏** [📍地圖](https://www.google.com/maps/search/?api=1&query=蔚南裏+台南)：近期討論度逐漸上升的質感住宿。
-*   **閑靜老宅民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=閑靜老宅民宿+台南)：如果想親身感受台南巷弄的老宅風情，這是一間小巧溫馨的私房選擇。
-
-### 其他商旅與民宿選項
-如果您在尋找高 CP 值、商旅性質或是適合家庭的平價住宿，也可以參考以下名單：
-*   **[河樂文旅](https://www.booking-owlnest.com/holohoteltainan)** [📍地圖](https://www.google.com/maps/search/?api=1&query=河樂文旅+台南)：鄰近河樂廣場（原中國城遺址改建的親水公園），是台南市區熱門的平價文旅。
-    *   **💡 訂房與停車秘訣**：建議直接在**官網訂房較便宜**（例如：週日＋週一連住兩晚只需約 4,660 元）。此外，飯店提供地下停車場，收費為一晚 200 元/格，在難停車的市中心是一大福音。
-    *   **✨ 實住心得與注意**：**位置極佳**（步行即可抵達國華街、神農街、海安路，旁邊就有 7-11 與小北百貨，採買宵夜日用品超方便），房間空間寬敞舒適，櫃台人員也非常客氣有禮。**⚠️ 唯一缺點是床墊偏軟**，習慣睡硬床或腰背較敏感的人請留意。
-*   **泊樂行旅 中正館** [📍地圖](https://www.google.com/maps/search/?api=1&query=泊樂行旅+中正館+台南)：地理位置絕佳，位在中西區核心，逛街吃美食極度方便。
-*   **台南郡象商旅** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南郡象商旅+台南)：鄰近國華街與海安路商圈的商旅選擇。
-*   **捷喬商旅** [📍地圖](https://www.google.com/maps/search/?api=1&query=捷喬商旅+台南)：提供舒適現代房型的商務旅館。
-*   **日升大飯店** [📍地圖](https://www.google.com/maps/search/?api=1&query=日升大飯店+台南)：老字號的平價大飯店。
-*   **財旅電梯民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=財旅電梯民宿+台南)：對於有大件行李或長輩同行的旅客，附有電梯的民宿會是相當加分的選擇。
-*   **芷築民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=芷築民宿+台南)：位在近年最夯的「信義街」巷弄內！地理位置極佳（近國華街與神農街），建築帶有現代感且環境清幽。**⚠️ 避雷注意**：此建築為五層樓設計但「無電梯」，攜帶大件行李或行動不便者請自行斟酌。
+*   **[河樂文旅](https://www.booking-owlnest.com/holohoteltainan)** [📍地圖](https://www.google.com/maps/search/?api=1&query=河樂文旅+台南)
+    *   **⭐ 實住心得**：地點極佳（近國華街、神農街、海安路、7-11、小北）、空間寬敞、櫃台親切；**⚠️ 床墊偏軟**
+    *   **訂房與停車**：官網訂較便宜；附地下停車場（200 元/晚）
+*   **天下南隅 (Provintia Hotel)** [📍地圖](https://www.google.com/maps/search/?api=1&query=天下南隅+台南)：復古翻新飯店、早餐極推、電視支援串流（⚠️ 水壓偏低、隔音稍差）
+*   **友愛街旅館 (U.I.J)** [📍地圖](https://www.google.com/maps/search/?api=1&query=友愛街旅館+台南)：設計旅館＋青旅，近美術館與國華街
+*   **禧榕軒大飯店** [📍地圖](https://www.google.com/maps/search/?api=1&query=禧榕軒大飯店+台南)：頂樓空中花園泳池，近火車站
+*   **廣發寓所** [📍地圖](https://www.google.com/maps/search/?api=1&query=廣發寓所+台南) / **蔚南裏** [📍地圖](https://www.google.com/maps/search/?api=1&query=蔚南裏+台南) / **閑靜老宅民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=閑靜老宅民宿+台南)
+*   **平價商旅／民宿**：**泊樂行旅 中正館** [📍地圖](https://www.google.com/maps/search/?api=1&query=泊樂行旅+中正館+台南) / **台南郡象商旅** [📍地圖](https://www.google.com/maps/search/?api=1&query=台南郡象商旅+台南) / **捷喬商旅** [📍地圖](https://www.google.com/maps/search/?api=1&query=捷喬商旅+台南) / **日升大飯店** [📍地圖](https://www.google.com/maps/search/?api=1&query=日升大飯店+台南) / **財旅電梯民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=財旅電梯民宿+台南)（有電梯） / **芷築民宿** [📍地圖](https://www.google.com/maps/search/?api=1&query=芷築民宿+台南)（信義街內，⚠️ **5 樓無電梯**）

@@ -2,52 +2,52 @@
 
 [👉 點此查看機票比價與全日本通用指南](#docs_jp_guide_md)
 
-## 🍂 1. 銀杏秘境與殿堂
+## 🍂 1. 銀杏秘境
 
-*   **慧光寺（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=慧光寺+京都)：*網友極推秘境！* 藏著一顆巨大壯觀的 400 年樹齡銀杏，完全不輸西本願寺，且觀光客極少。
-*   **三栖神社（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=三栖神社+京都)：*京都最後的銀杏樂園！* 超級冷門（Google 評價不到百則），不用人擠人就能獨享奇蹟般巨大的銀杏樹。
-*   **宮前兒童公園（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=宮前兒童公園+京都)：*充滿日劇感的生活秘境！* 在永觀堂附近，銀杏樹搭配復古溜滑梯，畫面極度療癒。
-*   **御堂筋（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=御堂筋+大阪)：綿延 4 公里的大都會黃金隧道，搭配兩旁的歐風建築與精品店，非常都會浪漫。
-
----
-
-## 🏮 2. 懷舊與古風散步
-
-*   **高瀨川 / 木屋町通** [📍地圖](https://www.google.com/maps/search/?api=1&query=高瀨川+京都)：微涼秋夜、潺潺流水、兩旁町屋亮起燈籠，極度浪漫的古都日常。
-*   **祇園白川** [📍地圖](https://www.google.com/maps/search/?api=1&query=祇園白川+京都)：比花見小路更寧靜。石板路、垂柳、傳統木造茶屋，運氣好還能遇見藝妓。
-*   **貴船神社** [📍地圖](https://www.google.com/maps/search/?api=1&query=貴船神社+京都)：隱藏在洛北森林中的神社。兩側排滿紅燈籠的石階極美，並能體驗獨特的「水占卜」。
-*   **大阪新世界 / 通天閣** [📍地圖](https://www.google.com/maps/search/?api=1&query=新世界+大阪)：超濃厚的「昭和市井氣息」。誇張的招牌、滿街的串炸店與立吞居酒屋，有一種草根的活力。
-*   **中崎町（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=中崎町+大阪)：就在繁華的梅田旁邊，卻奇蹟般躲過二戰戰火。整區都是昭和時代甚至戰前的木造老屋，現在被改造成充滿生活感的隱密復古咖啡廳與雜貨店，極度好拍。
-*   **玉造商店街 / マイ夕屋章魚燒（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=マイタ屋+玉造)：*隱藏版平民美食！* 這裡幾乎沒有觀光客，章魚燒一顆只要驚人的 35 日幣（道頓堀一份通常要 800 日幣起跳）。附近還有同一位老闆開的 24 小時無人古著店，大衣只要 3000 日幣，極度適合尋寶。
-*   **天神橋筋商店街 / 中村屋可樂餅（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=中村屋コロッケ+大阪)：全日本最長的商店街，充滿大阪庶民活力。必吃連前首相安倍晉三與眾多藝人都指名推薦的「中村屋可樂餅」，份量紮實且一個只要 100 日幣！
-*   **吉壽屋糖果百貨 (大阪心齋橋)** [📍地圖](https://www.google.com/maps/search/?api=1&query=吉壽屋+心齋橋)：*伴手禮超省錢批發店！* 位於心齋橋商店街後段。許多大牌零食（如 KitKat）一大包不到 300 日幣，有些甚至只要 69 日幣，買伴手禮來這裡掃貨最划算。
-*   **四条河原町與周邊巷弄（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=四条河原町)：*不只是古蹟，更是購物天堂！* 除了寺町/新京極商店街外，還有隈研吾設計的「新風館」。三条/六角通則隱藏著許多潮流服飾。若喜歡角色 IP（任天堂、寶可夢、吉伊卡哇）或日本品牌（SOU・SOU、Onitsuka Tiger），這整區絕對能讓你逛上一整天。
-*   **古川町商店街（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=古川町商店街+京都)：被稱為「東邊的錦市場」，比起錦市場的觀光化，這裡保留了昭和時代由數百個彩色燈籠點綴的復古拱廊，極具懷舊庶民感。
-*   **神戶三宮商店街** [📍地圖](https://www.google.com/maps/search/?api=1&query=三宮センター街)：雖然神戶非常宜居舒服，但在長假期間（如白銀週）這裡會充滿恐怖的人潮，若遇日本連假建議避開。
+*   **慧光寺（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=慧光寺+京都)：400 年巨大銀杏，觀光客極少
+*   **三栖神社（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=三栖神社+京都)：冷門巨型銀杏
+*   **宮前兒童公園（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=宮前兒童公園+京都)：永觀堂附近，銀杏＋復古溜滑梯
+*   **御堂筋（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=御堂筋+大阪)：4 公里市區銀杏大道
 
 ---
 
-## ☕ 3. 老派喫茶店與在地朝食
+## 🏮 2. 懷舊散步與購物
 
-*   **放香堂 (神戶元町)** [📍地圖](https://www.google.com/maps/search/?api=1&query=放香堂+神戸)：*日本最古老的咖啡店！* 早於昭和與大正，創立於明治時代 (1878年)。招牌是用傳統石臼手工磨豆沖泡的咖啡，歷史意義非凡。
-*   **喫茶チロル (Kissa Tyrol 京都)** [📍地圖](https://www.google.com/maps/search/?api=1&query=喫茶チロル+京都)：深受京都在地人喜愛的昭和老喫茶店，早晨來這裡吃一份朝食，氛圍感無可取代。
-*   **今宮神社千年烤麻糬 (京都)** [📍地圖](https://www.google.com/maps/search/?api=1&query=一文字屋和輔+京都)：坐在榻榻米或日式緣側，吃著現烤微焦的白味增麻糬配熱茶，傳承千年的老味道（如一文字屋和輔）。
-*   **喫茶ソワレ (Soiree 京都)** [📍地圖](https://www.google.com/maps/search/?api=1&query=喫茶ソワレ+京都)：京都代表性喫茶店。藍色神秘燈光配上寶石般的果凍汽水，極度夢幻。
-*   **千成屋珈琲（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=千成屋珈琲+大阪)：位於新世界，是大阪名產「綜合果汁 (ミックスジュース)」的發祥地，濃濃的昭和純喫茶味。
-*   **フランソワ喫茶室 (Francois)** [📍地圖](https://www.google.com/maps/search/?api=1&query=フランソワ喫茶室+京都) / **築地喫茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=築地喫茶+京都)：京都代表性的登錄有形文化財喫茶店。裝潢完全停留在昭和初期，古典音樂配上紅絲絨座椅，是老派文青的最愛。
+*   **高瀨川 / 木屋町通（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=高瀨川+京都)：夜間町屋燈籠與流水散步
+*   **祇園白川（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=祇園白川+京都)：石板路、垂柳、木造茶屋
+*   **貴船神社（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=貴船神社+京都)：紅燈籠石階、水占卜
+*   **大阪新世界 / 通天閣** [📍地圖](https://www.google.com/maps/search/?api=1&query=新世界+大阪)：昭和市井、串炸、立吞居酒屋
+*   **中崎町（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=中崎町+大阪)：梅田旁戰前木造老屋、復古咖啡廳與雜貨
+*   **玉造商店街 / マイタ屋章魚燒（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=マイタ屋+玉造)：超平價章魚燒（約 ¥35/顆）、旁有 24H 無人古著店
+*   **天神橋筋商店街 / 中村屋可樂餅（大阪）** [📍地圖](https://www.google.com/maps/search/?api=1&query=中村屋コロッケ+大阪)：全日本最長商店街、必吃 ¥100 中村屋可樂餅
+*   **吉壽屋糖果百貨（大阪心齋橋）** [📍地圖](https://www.google.com/maps/search/?api=1&query=吉壽屋+心齋橋)：零食伴手禮超低價批發店
+*   **四条河原町（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=四条河原町)：寺町／新京極商店街、新風館、SOU・SOU、任天堂／寶可夢等 IP 逛街區
+*   **古川町商店街（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=古川町商店街+京都)：昭和彩色燈籠復古拱廊
+*   **神戶三宮商店街** [📍地圖](https://www.google.com/maps/search/?api=1&query=三宮センター街)：⚠️ 日本連假人潮極多建議避開
+
+---
+
+## ☕ 3. 老派喫茶店與點心
+
+*   **放香堂（神戶元町）** [📍地圖](https://www.google.com/maps/search/?api=1&query=放香堂+神戸)：1878 年創立日本最古老咖啡店，石臼手磨咖啡
+*   **喫茶チロル（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=喫茶チロル+京都)：昭和在地老喫茶朝食
+*   **一文字屋和輔（京都今宮神社）** [📍地圖](https://www.google.com/maps/search/?api=1&query=一文字屋和輔+京都)：千年白味噌現烤麻糬
+*   **喫茶ソワレ（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=喫茶ソワレ+京都)：藍色燈光、果凍汽水
+*   **千成屋珈琲（大阪新世界）** [📍地圖](https://www.google.com/maps/search/?api=1&query=千成屋珈琲+大阪)：大阪綜合果汁發祥地
+*   **フランソワ喫茶室** [📍地圖](https://www.google.com/maps/search/?api=1&query=フランソワ喫茶室+京都) / **築地喫茶** [📍地圖](https://www.google.com/maps/search/?api=1&query=築地喫茶+京都)：京都文化財昭和喫茶店
 
 ---
 
 ## 🏔️ 4. 特殊文化與絕景
 
-*   **美山町 (茅葺部落)** [📍地圖](https://www.google.com/maps/search/?api=1&query=美山町+京都)：*京都版的合掌村！* 位於京都郊區，保留了日本傳統的「茅葺屋」聚落，相比白川鄉合掌村，這裡幾乎沒有濃厚的商業氣息，呈現出最原始、寧靜的日本鄉村原風景。
-*   **姬路城 (兵庫)** [📍地圖](https://www.google.com/maps/search/?api=1&query=姬路城)：*日本第一名城！* 擁有「白鷺城」美名的世界文化遺產，是日本少數保留完整天守閣的國寶級城池。白色城牆極度壯觀，從神戶搭車過去非常方便，也是從關西前往岡山途中必訪的歷史絕景。
-*   **京都錢湯體驗** [📍地圖](https://www.google.com/maps/search/?api=1&query=船岡溫泉+京都)：不去貴的溫泉旅館，改去在地人洗澡的「大眾澡堂」（如船岡溫泉）。欣賞復古磁磚，泡完澡喝一瓶冰牛奶。
-*   **叡山電車楓葉隧道** [📍地圖](https://www.google.com/maps/search/?api=1&query=叡山電車+楓葉隧道)：*社群大推！* 搭乘展望列車「KIRARA」穿梭在洛北的山林間，透過大玻璃窗欣賞點燈的紅楓隧道。
+*   **美山町（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=美山町+京都)：寧靜茅葺屋聚落
+*   **姬路城（兵庫）** [📍地圖](https://www.google.com/maps/search/?api=1&query=姬路城)：世界遺產國寶白鷺城
+*   **船岡溫泉（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=船岡溫泉+京都)：復古磁磚傳統錢湯體驗
+*   **叡山電車楓葉隧道（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=叡山電車+楓葉隧道)：搭展望列車 KIRARA 看點燈紅葉
 
 ---
 
-## 🥩 5. 高單價大餐推薦
+## 🥩 5. 高單價大餐
 
-*   **百年老字號壽喜燒（京都 三嶋亭 等）** [📍地圖](https://www.google.com/maps/search/?api=1&query=三嶋亭+京都)：專人穿著和服為您桌邊服務，油花完美的和牛沾上生蛋黃。
-*   **正統湯豆腐懷石（京都 南禪寺順正 等）** [📍地圖](https://www.google.com/maps/search/?api=1&query=南禪寺順正+京都)：在傳統日式庭園內，品嚐將豆腐做到極致的精緻料理。
+*   **三嶋亭（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=三嶋亭+京都)：百年老字號和牛壽喜燒
+*   **南禪寺順正（京都）** [📍地圖](https://www.google.com/maps/search/?api=1&query=南禪寺順正+京都)：日式庭園湯豆腐懷石
